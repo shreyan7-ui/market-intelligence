@@ -1,0 +1,3213 @@
+{
+    "NVDA": [
+        {
+            "id": "f3279371-7417-4273-85e4-32564154cd17",
+            "content": {
+                "id": "f3279371-7417-4273-85e4-32564154cd17",
+                "contentType": "STORY",
+                "title": "Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD",
+                "description": "",
+                "summary": "Amazon CEO Andy Jassy laid out plans to potentially sell AI chips and robots in his annual shareholder newsletter.",
+                "pubDate": "2026-04-09T14:28:35Z",
+                "displayTime": "2026-06-18T16:43:34Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2026-04/9d4913a0-340c-11f1-af77-cd111f4f9a31",
+                    "originalWidth": 3973,
+                    "originalHeight": 2644,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Z9GplDcFvyNgxMq5Ukn8FQ--~B/aD0yNjQ0O3c9Mzk3MzthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-04/9d4913a0-340c-11f1-af77-cd111f4f9a31",
+                            "width": 3973,
+                            "height": 2644,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/wi2EbtBKAJn8G2VRpCiAXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-04/9d4913a0-340c-11f1-af77-cd111f4f9a31",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Yahoo Finance",
+                    "url": "http://finance.yahoo.com/",
+                    "sourceId": "yahoofinance.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/news/amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-142835117.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/news/amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-142835117.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": true
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "333e41ee-827e-4f8e-a097-2e27b5b7b0bd",
+            "content": {
+                "id": "333e41ee-827e-4f8e-a097-2e27b5b7b0bd",
+                "contentType": "VIDEO",
+                "title": "Intel jumps after Trump says Apple, Intel reached US chip deal",
+                "description": "<p>Intel (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/INTC/\" data-i13n=\"cpos:1;pos:1\">INTC</a>) surged 9% in premarket trading after President Trump said in a Truth Social post that Intel and Apple (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/AAPL/\" data-i13n=\"cpos:2;pos:1\">AAPL</a>) have agreed on a deal to design and build semiconductors in the US.</p>",
+                "summary": "Intel (INTC) surged 9% in premarket trading after President Trump said in a Truth Social post that Intel and Apple (AAPL) have agreed on a deal to design and build semiconductors in the US.",
+                "pubDate": "2026-06-18T14:45:20Z",
+                "displayTime": "",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://s.yimg.com/uu/api/res/1.2/NXL.OU76mp5nTSQq5DpPIA--~B/aD0zNDgyO3c9NjE5MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cd14d8f0-815a-11ef-9bbd-c428480387fe_c69f91f6bd7062835805d462e8800edccf12f1f9aebd4185425c9d45c4fca2ab.com/creatr-uploaded-images/2024-09/cd14d8f0-815a-11ef-9bbd-c428480387fe",
+                    "originalWidth": 6190,
+                    "originalHeight": 3482,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/NXL.OU76mp5nTSQq5DpPIA--~B/aD0zNDgyO3c9NjE5MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cd14d8f0-815a-11ef-9bbd-c428480387fe_c69f91f6bd7062835805d462e8800edccf12f1f9aebd4185425c9d45c4fca2ab.com/creatr-uploaded-images/2024-09/cd14d8f0-815a-11ef-9bbd-c428480387fe",
+                            "width": 6190,
+                            "height": 3482,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/2hr0aiHta5gQUsi3MR7Xkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cd14d8f0-815a-11ef-9bbd-c428480387fe_c69f91f6bd7062835805d462e8800edccf12f1f9aebd4185425c9d45c4fca2ab.com/creatr-uploaded-images/2024-09/cd14d8f0-815a-11ef-9bbd-c428480387fe",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Yahoo Finance Video",
+                    "url": "https://finance.yahoo.com/",
+                    "sourceId": "video.yahoofinance.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": true
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "1169f1f2-1f1b-3d62-97b4-8ac8b49ca5d1",
+            "content": {
+                "id": "1169f1f2-1f1b-3d62-97b4-8ac8b49ca5d1",
+                "contentType": "STORY",
+                "title": "Visa and Mastercard Reportedly Want to Run Stablecoins, Not Fight Them. Here's What It Means for Investors.",
+                "description": "",
+                "summary": "The dominant card networks are leaning into innovation that is happening within their industry.",
+                "pubDate": "2026-06-19T12:24:00Z",
+                "displayTime": "2026-06-19T12:24:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/motleyfool.com/23d07ee2535d5d2f3e1c93402196b115",
+                    "originalWidth": 1200,
+                    "originalHeight": 800,
+                    "caption": "Mastercard logo on left on red filter and Visa logo on right on blue filter.",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/tE1IxNA0XSXsg1Uv4ar6Ww--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/23d07ee2535d5d2f3e1c93402196b115",
+                            "width": 1200,
+                            "height": 800,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/2uC1fstKM39HrbU2RbJ_LQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/23d07ee2535d5d2f3e1c93402196b115",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Motley Fool",
+                    "url": "http://www.fool.com/",
+                    "sourceId": "motleyfool.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.fool.com/investing/2026/06/19/visa-mastercard-stablecoins-what-means-investors/",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/crypto/articles/visa-mastercard-reportedly-want-run-122400001.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "b011e91f-ac4b-32b1-858e-678f7afb1dfc",
+            "content": {
+                "id": "b011e91f-ac4b-32b1-858e-678f7afb1dfc",
+                "contentType": "STORY",
+                "title": "This Utility Wants Tech Companies to Help Pay for New Nuclear Energy Developments. Here's What It Could Mean for Nuclear Energy Stocks.",
+                "description": "",
+                "summary": "Duke Energy's proposed alternative to nuclear power plant funding could change the story for early-stage nuclear technology companies.",
+                "pubDate": "2026-06-19T12:20:00Z",
+                "displayTime": "2026-06-19T12:20:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/motleyfool.com/531931f9bec6a2d1d6481f30f7371a9c",
+                    "originalWidth": 1200,
+                    "originalHeight": 716,
+                    "caption": "A small modular nuclear reactor power plant on a sunny day.",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/zmBI.frmuxDcMfjYvzKRtw--~B/aD03MTY7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/531931f9bec6a2d1d6481f30f7371a9c",
+                            "width": 1200,
+                            "height": 716,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/FT8T_24VzrHGePMFqivoEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/531931f9bec6a2d1d6481f30f7371a9c",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Motley Fool",
+                    "url": "http://www.fool.com/",
+                    "sourceId": "motleyfool.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.fool.com/investing/2026/06/19/this-utility-wants-technology-companies-to-help-fo/",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/energy/articles/utility-wants-tech-companies-help-122000276.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "dc51081d-508d-30aa-9ee5-e80d4d1ba33b",
+            "content": {
+                "id": "dc51081d-508d-30aa-9ee5-e80d4d1ba33b",
+                "contentType": "STORY",
+                "title": "Nvidia (NVDA) Announces Artificial Intelligence Partnerships with 6 Major South Korean Companies",
+                "description": "",
+                "summary": "NVIDIA Corp. (NASDAQ:NVDA) is one of the 10 best electric and autonomous driving stocks to buy according to hedge funds. On June 8, following a four-day visit to South Korea, Nvidia Corp.\u2019s (NASDAQ:NVDA) Chief Executive Officer Jensen Huang announced strategic artificial intelligence partnerships with six major domestic companies. These new partnerships focus on four main [\u2026]",
+                "pubDate": "2026-06-19T12:19:04Z",
+                "displayTime": "2026-06-19T12:19:04Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/8a0625664bc27d63e64f060c8f46dcea",
+                    "originalWidth": 1000,
+                    "originalHeight": 666,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/rMm6.kIUFAyTiTECFpbqBQ--~B/aD02NjY7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/8a0625664bc27d63e64f060c8f46dcea",
+                            "width": 1000,
+                            "height": 666,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/77vUe.AZ495kVMX_2SVhtA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8a0625664bc27d63e64f060c8f46dcea",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Insider Monkey",
+                    "url": "http://www.insidermonkey.com",
+                    "sourceId": "insidermonkey.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-announces-artificial-intelligence-121904675.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-announces-artificial-intelligence-121904675.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "b88de6a2-1562-390e-88a2-0f8a0046f68b",
+            "content": {
+                "id": "b88de6a2-1562-390e-88a2-0f8a0046f68b",
+                "contentType": "STORY",
+                "title": "Uber Technologies (UBER) is One of the Best Electric and Autonomous Driving Stocks, Here is Why",
+                "description": "",
+                "summary": "Uber Technologies Inc. (NYSE:UBER) is one of the 10 best electric and autonomous driving stocks to buy according to hedge funds. On June 1, Uber Technologies Inc. (NYSE:UBER) and Autobrains revealed their business collaboration around a robotaxi program launch in Munich. This initiative brings together Uber\u2019s ride-hailing platform, Autobrains\u2019 Agentic AI technology, and NVIDIA\u2019s DRIVE [\u2026]",
+                "pubDate": "2026-06-19T12:18:55Z",
+                "displayTime": "2026-06-19T12:18:55Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/0cb8249af133a466ad2c718b70c4bcfc",
+                    "originalWidth": 1280,
+                    "originalHeight": 853,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/0l3HaIFXW4Q.fGhao0zLJg--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/0cb8249af133a466ad2c718b70c4bcfc",
+                            "width": 1280,
+                            "height": 853,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/LU.IGjAMivJq2o7WdhIANA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0cb8249af133a466ad2c718b70c4bcfc",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Insider Monkey",
+                    "url": "http://www.insidermonkey.com",
+                    "sourceId": "insidermonkey.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/uber-technologies-uber-one-best-121855043.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/uber-technologies-uber-one-best-121855043.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "a3a20b09-dd3e-3595-9a7b-14090ee04511",
+            "content": {
+                "id": "a3a20b09-dd3e-3595-9a7b-14090ee04511",
+                "contentType": "STORY",
+                "title": "The Case for Holding VYM in Your Roth IRA",
+                "description": "",
+                "summary": "If you hold Vanguard High Dividend Yield Index Fund ETF Shares (NYSEARCA:VYM) in a taxable brokerage account, every December distribution check comes with an IRS partner. At the 24% federal bracket, a portfolio throwing off $20,000 in dividends hands over $4,800 a year to Washington, every year, forever. The Roth IRA is the only legal ... The Case for Holding VYM in Your Roth IRA",
+                "pubDate": "2026-06-19T12:09:24Z",
+                "displayTime": "2026-06-19T12:09:24Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/17bf4a3483eecb3ae571aef4b62c70bb",
+                    "originalWidth": 1500,
+                    "originalHeight": 1000,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/GLmwscFyfgMy.iwfTxB7NQ--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/17bf4a3483eecb3ae571aef4b62c70bb",
+                            "width": 1500,
+                            "height": 1000,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Hq_WZjHRxMXrGmk.QBbKoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/17bf4a3483eecb3ae571aef4b62c70bb",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "24/7 Wall St.",
+                    "url": "https://247wallst.com/",
+                    "sourceId": "24_7_wall_st__718"
+                },
+                "canonicalUrl": {
+                    "url": "https://247wallst.com/investing/2026/06/19/the-case-for-holding-vym-in-your-roth-ira/",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/case-holding-vym-roth-ira-120924385.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "a84935ca-be16-32bc-9c08-735791267f1b",
+            "content": {
+                "id": "a84935ca-be16-32bc-9c08-735791267f1b",
+                "contentType": "STORY",
+                "title": "Google's AI Chip Strategy Gets More Ambitious",
+                "description": "",
+                "summary": "Custom AI chips may become bigger business",
+                "pubDate": "2026-06-19T12:09:22Z",
+                "displayTime": "2026-06-19T12:09:22Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": null,
+                "provider": {
+                    "displayName": "GuruFocus.com",
+                    "url": "http://www.gurufocus.com/",
+                    "sourceId": "us.finance.gurufocus"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/googles-ai-chip-strategy-gets-120922099.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/googles-ai-chip-strategy-gets-120922099.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "25ad3ac9-16dc-3e5a-a170-8b26150cc3de",
+            "content": {
+                "id": "25ad3ac9-16dc-3e5a-a170-8b26150cc3de",
+                "contentType": "STORY",
+                "title": "Why Dogecoin Still Has a Legitimate Case as a Long-Term Investment",
+                "description": "",
+                "summary": "Dogecoin may still be the most valuable meme coin, but does it deserve a place in your portfolio?",
+                "pubDate": "2026-06-19T12:00:00Z",
+                "displayTime": "2026-06-19T12:00:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/motleyfool.com/1c81a9f67ed00659b67ef207abc0d901",
+                    "originalWidth": 1400,
+                    "originalHeight": 937,
+                    "caption": "Dog with laptop.",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/bwalNFSai18EHCwoS1F5AA--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1c81a9f67ed00659b67ef207abc0d901",
+                            "width": 1400,
+                            "height": 937,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/1I..3Ku5hYpF7x5.oyMAxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1c81a9f67ed00659b67ef207abc0d901",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Motley Fool",
+                    "url": "http://www.fool.com/",
+                    "sourceId": "motleyfool.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.fool.com/investing/2026/06/19/why-dogecoin-still-has-a-legitimate-case-as-a-long/",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/crypto/articles/why-dogecoin-still-legitimate-case-120000318.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "aa0411a1-2ba1-3057-bff9-1381bd5225f7",
+            "content": {
+                "id": "aa0411a1-2ba1-3057-bff9-1381bd5225f7",
+                "contentType": "STORY",
+                "title": "Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
+                "description": "",
+                "summary": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. U.S. stock markets will be closed for the Juneteenth holiday. The stock market rebounded this past week, though the gains were concentrated in chips and AI-related plays, along with biotechs.",
+                "pubDate": "2026-06-19T11:57:58Z",
+                "displayTime": "2026-06-19T11:57:58Z",
+                "isHosted": false,
+                "bypassModal": false,
+                "previewUrl": "https://finance.yahoo.com/m/aa0411a1-2ba1-3057-bff9-1381bd5225f7/dow-jones-futures-fall-with.html",
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/ibd.com/a2718c578247ec7a151aec3a57442ba4",
+                    "originalWidth": 1001,
+                    "originalHeight": 563,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/tDwrAkLkKuIoFYaoWoxXpA--~B/aD01NjM7dz0xMDAxO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/a2718c578247ec7a151aec3a57442ba4",
+                            "width": 1001,
+                            "height": 563,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/MUVjfpI8IE7J5UOjJVqI7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/a2718c578247ec7a151aec3a57442ba4",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Investor's Business Daily",
+                    "url": "http://www.investors.com/",
+                    "sourceId": "ibd.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": null,
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        }
+    ],
+    "AAPL": [
+        {
+            "id": "8445798a-08d3-49fb-b8b4-34182c956545",
+            "content": {
+                "id": "8445798a-08d3-49fb-b8b4-34182c956545",
+                "contentType": "STORY",
+                "title": "Tech stocks today: Uber and Lucid expanding in Houston,  Intel's latest chip moves",
+                "description": "",
+                "summary": "What to watch from SpaceX and other tech stocks during the holiday-shortened week.",
+                "pubDate": "2026-06-15T10:00:00Z",
+                "displayTime": "2026-06-18T21:06:40Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://s.yimg.com/uu/api/res/1.2/ywl_Zm74xDJzE97D99.igA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/vo-spacex-nasdaq-061226mp400-00-21-02still002_6124.png",
+                    "originalWidth": 1920,
+                    "originalHeight": 1080,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/ywl_Zm74xDJzE97D99.igA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/vo-spacex-nasdaq-061226mp400-00-21-02still002_6124.png",
+                            "width": 1920,
+                            "height": 1080,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/etTuP7dBEQxlpW8UQXPpXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/vo-spacex-nasdaq-061226mp400-00-21-02still002_6124.png",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Yahoo Finance",
+                    "url": "http://finance.yahoo.com/",
+                    "sourceId": "yahoofinance.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-uber-and-lucid-expanding-in-houston-intels-latest-chip-moves-100000021.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-uber-and-lucid-expanding-in-houston-intels-latest-chip-moves-100000021.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": true
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": {
+                    "storylineItems": [
+                        {
+                            "content": {
+                                "id": "5ea4f3f5-228b-4d90-9ef7-3e220abee6f8",
+                                "contentType": "VIDEO",
+                                "isHosted": true,
+                                "title": "Apple CEO confirms price hikes, Take Two announces GTA 6 preorder date",
+                                "thumbnail": {
+                                    "originalUrl": "https://s.yimg.com/uu/api/res/1.2/pLi5Frj1_Enc28.WQmj.9A--~B/aD0xOTkyO3c9MzU0MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/b23ccae0-e58e-11ef-8d55-d47ffe9e9f28_568f876ab40acfb3a6179eaa99d223cf1a924cc3a97af741404966447a51dfe8.jpg",
+                                    "originalWidth": 3543,
+                                    "originalHeight": 1992,
+                                    "caption": "",
+                                    "resolutions": null
+                                },
+                                "provider": {
+                                    "displayName": "Yahoo Finance Video",
+                                    "sourceId": "video.yahoofinance.com"
+                                },
+                                "previewUrl": null,
+                                "providerContentUrl": "",
+                                "canonicalUrl": {
+                                    "url": "https://finance.yahoo.com/video/apple-ceo-confirms-price-hikes-take-two-announces-gta-6-preorder-date-194755984.html"
+                                },
+                                "clickThroughUrl": {
+                                    "url": "https://finance.yahoo.com/video/apple-ceo-confirms-price-hikes-take-two-announces-gta-6-preorder-date-194755984.html"
+                                }
+                            }
+                        },
+                        {
+                            "content": {
+                                "id": "ae52ad1e-63e3-4710-bea1-e8f4a85a05d7",
+                                "contentType": "STORY",
+                                "isHosted": true,
+                                "title": "Intel stock soars on reported Apple deal as turnaround continues to pay off",
+                                "thumbnail": {
+                                    "originalUrl": "https://s.yimg.com/uu/api/res/1.2/FOHbf74.IJ1P2iuCdxdHqA--~B/aD0zNjY3O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/8b296bcb-fbb6-4c4c-80e5-8d63a7c374b8",
+                                    "originalWidth": 5500,
+                                    "originalHeight": 3667,
+                                    "caption": "",
+                                    "resolutions": null
+                                },
+                                "provider": {
+                                    "displayName": "Yahoo Finance",
+                                    "sourceId": "yahoofinance.com"
+                                },
+                                "previewUrl": null,
+                                "providerContentUrl": "",
+                                "canonicalUrl": {
+                                    "url": "https://finance.yahoo.com/technology/article/intel-stock-soars-on-reported-apple-deal-as-turnaround-continues-to-pay-off-143423447.html"
+                                },
+                                "clickThroughUrl": {
+                                    "url": "https://finance.yahoo.com/technology/article/intel-stock-soars-on-reported-apple-deal-as-turnaround-continues-to-pay-off-143423447.html"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "333e41ee-827e-4f8e-a097-2e27b5b7b0bd",
+            "content": {
+                "id": "333e41ee-827e-4f8e-a097-2e27b5b7b0bd",
+                "contentType": "VIDEO",
+                "title": "Intel jumps after Trump says Apple, Intel reached US chip deal",
+                "description": "<p>Intel (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/INTC/\" data-i13n=\"cpos:1;pos:1\">INTC</a>) surged 9% in premarket trading after President Trump said in a Truth Social post that Intel and Apple (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/AAPL/\" data-i13n=\"cpos:2;pos:1\">AAPL</a>) have agreed on a deal to design and build semiconductors in the US.</p>",
+                "summary": "Intel (INTC) surged 9% in premarket trading after President Trump said in a Truth Social post that Intel and Apple (AAPL) have agreed on a deal to design and build semiconductors in the US.",
+                "pubDate": "2026-06-18T14:45:20Z",
+                "displayTime": "",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://s.yimg.com/uu/api/res/1.2/NXL.OU76mp5nTSQq5DpPIA--~B/aD0zNDgyO3c9NjE5MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cd14d8f0-815a-11ef-9bbd-c428480387fe_c69f91f6bd7062835805d462e8800edccf12f1f9aebd4185425c9d45c4fca2ab.com/creatr-uploaded-images/2024-09/cd14d8f0-815a-11ef-9bbd-c428480387fe",
+                    "originalWidth": 6190,
+                    "originalHeight": 3482,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/NXL.OU76mp5nTSQq5DpPIA--~B/aD0zNDgyO3c9NjE5MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cd14d8f0-815a-11ef-9bbd-c428480387fe_c69f91f6bd7062835805d462e8800edccf12f1f9aebd4185425c9d45c4fca2ab.com/creatr-uploaded-images/2024-09/cd14d8f0-815a-11ef-9bbd-c428480387fe",
+                            "width": 6190,
+                            "height": 3482,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/2hr0aiHta5gQUsi3MR7Xkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cd14d8f0-815a-11ef-9bbd-c428480387fe_c69f91f6bd7062835805d462e8800edccf12f1f9aebd4185425c9d45c4fca2ab.com/creatr-uploaded-images/2024-09/cd14d8f0-815a-11ef-9bbd-c428480387fe",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Yahoo Finance Video",
+                    "url": "https://finance.yahoo.com/",
+                    "sourceId": "video.yahoofinance.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": true
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "10f1e5cf-8b7d-44da-8c93-59f414bf9c37",
+            "content": {
+                "id": "10f1e5cf-8b7d-44da-8c93-59f414bf9c37",
+                "contentType": "VIDEO",
+                "title": "Gas prices fall but chip demand is causing a new headache",
+                "description": "<p>Consumers may finally be getting some relief at the pump, with gas prices falling to their lowest levels since March following the Iran peace deal. But any savings could be offset elsewhere, as the AI-driven chip shortage pushes up the price of Apple (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/AAPL/\" data-i13n=\"cpos:1;pos:1\">AAPL</a>) iPhones. Hennion & Walsh CIO Kevin Mahn and Yahoo Finance Senior Business Reporter Ines Ferre join Julie Hyman to discuss the latest pressures on consumers and how the Fed is navigating the shifting inflation landscape.</p>",
+                "summary": "Consumers may finally be getting some relief at the pump, with gas prices falling to their lowest levels since March following the Iran peace deal. But any savings could be offset elsewhere, as the AI-driven chip shortage pushes up the price of Apple (AAPL) iPhones. Hennion & Walsh CIO Kevin Mahn and Yahoo Finance Senior Business Reporter Ines Ferre join Julie Hyman to discuss the latest pressures on consumers and how the Fed is navigating the shifting inflation landscape.",
+                "pubDate": "2026-06-18T14:27:47Z",
+                "displayTime": "",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2023-12/cbf7b630-a44d-11ee-be3d-2d6a14549820",
+                    "originalWidth": 5700,
+                    "originalHeight": 3800,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/3PyD31E4bjiaSlnySnz_TQ--~B/aD0zODAwO3c9NTcwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-12/cbf7b630-a44d-11ee-be3d-2d6a14549820",
+                            "width": 5700,
+                            "height": 3800,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/DVHL6txV64GQLEZX548jEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-12/cbf7b630-a44d-11ee-be3d-2d6a14549820",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Yahoo Finance Video",
+                    "url": "https://finance.yahoo.com/",
+                    "sourceId": "video.yahoofinance.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/video/gas-prices-fall-but-chip-demand-is-causing-a-new-headache-142747415.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/video/gas-prices-fall-but-chip-demand-is-causing-a-new-headache-142747415.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": true
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "25253456-8bac-3cc4-895c-af54bfd4048e",
+            "content": {
+                "id": "25253456-8bac-3cc4-895c-af54bfd4048e",
+                "contentType": "STORY",
+                "title": "US Tells ASML It\u2019s Concerned China May Have Top Chip Tool",
+                "description": "",
+                "summary": "(Bloomberg) -- Dutch chip-equipment giant ASML Holding NV is contending with its biggest challenge yet under the Trump administration: In a series of recent meetings, Commerce Secretary Howard Lutnick outlined concerns to ASML\u2019s senior leaders that one of its top-of-the-line machines may have made its way into China, in violation of US-led export restrictions.Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranModi Warns of \u2018Shortage of Trust\u2019 Ahead of Trump Meeting",
+                "pubDate": "2026-06-19T11:05:21Z",
+                "displayTime": "2026-06-19T11:05:21Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": null,
+                "provider": {
+                    "displayName": "Bloomberg",
+                    "url": "https://www.bloomberg.com/company",
+                    "sourceId": "bloomberg_holding_pen_162"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/articles/us-tells-asml-concerned-china-032918446.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/articles/us-tells-asml-concerned-china-032918446.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "c92c528e-5b9a-3daf-b577-528be291dee9",
+            "content": {
+                "id": "c92c528e-5b9a-3daf-b577-528be291dee9",
+                "contentType": "STORY",
+                "title": "Just 4 \"Magnificent Seven\" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",
+                "description": "",
+                "summary": "SpaceX wasted no time surpassing Amazon, Meta Platforms, and Tesla in market cap.",
+                "pubDate": "2026-06-19T10:20:00Z",
+                "displayTime": "2026-06-19T10:20:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a52dd5bf273518576cf35eccd8ba99dd",
+                    "originalWidth": 1200,
+                    "originalHeight": 633,
+                    "caption": "A trader raises their fists in excitement as they look at stock market data on screens.",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/V_.sYOSk2XF620oh7cwizA--~B/aD02MzM7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a52dd5bf273518576cf35eccd8ba99dd",
+                            "width": 1200,
+                            "height": 633,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/J6b_Oe6wpUF24lz6IuubUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a52dd5bf273518576cf35eccd8ba99dd",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Motley Fool",
+                    "url": "http://www.fool.com/",
+                    "sourceId": "motleyfool.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.fool.com/investing/2026/06/19/just-4-magnificent-seven-stocks-are-still-more-val/",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/just-4-magnificent-seven-stocks-102000337.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "f0ef1a96-0240-3d05-a69a-e1bf8d47cd83",
+            "content": {
+                "id": "f0ef1a96-0240-3d05-a69a-e1bf8d47cd83",
+                "contentType": "STORY",
+                "title": "The Best Nasdaq Stocks to Buy for Long-Term Upside",
+                "description": "",
+                "summary": "The best Nasdaq stocks to buy include familiar tech-related names, as well as companies with strong long-term upside potential operating in other sectors.",
+                "pubDate": "2026-06-19T10:00:00Z",
+                "displayTime": "2026-06-19T10:00:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/kiplinger_425/1a5962edcc638130a9eba0671c8b87b2",
+                    "originalWidth": 1024,
+                    "originalHeight": 683,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/LnTT00M6Pwe932SEl369yQ--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/kiplinger_425/1a5962edcc638130a9eba0671c8b87b2",
+                            "width": 1024,
+                            "height": 683,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/lDKt4egSeuWLvysQTRDroQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger_425/1a5962edcc638130a9eba0671c8b87b2",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Kiplinger",
+                    "url": "https://www.kiplinger.com/",
+                    "sourceId": "kiplinger_425"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.kiplinger.com/investing/stocks/the-best-nasdaq-stocks-to-buy-for-long-term-upside",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/best-nasdaq-stocks-buy-long-100000571.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "4ba0ac34-ecdd-360c-9828-1a59b5e7bd68",
+            "content": {
+                "id": "4ba0ac34-ecdd-360c-9828-1a59b5e7bd68",
+                "contentType": "STORY",
+                "title": "3 Reasons to Buy Apple Stock",
+                "description": "",
+                "summary": "Those who bet against the tech giant tend to lose.",
+                "pubDate": "2026-06-19T07:05:00Z",
+                "displayTime": "2026-06-19T07:05:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/motleyfool.com/421e0b7bc916bde0383f232aa73c72b8",
+                    "originalWidth": 1200,
+                    "originalHeight": 800,
+                    "caption": "Apple logo.",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/T0Z8VtOp4GXLmTGPfyzeWA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/421e0b7bc916bde0383f232aa73c72b8",
+                            "width": 1200,
+                            "height": 800,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/jI5UBOcX.yatrisx3gOsPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/421e0b7bc916bde0383f232aa73c72b8",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Motley Fool",
+                    "url": "http://www.fool.com/",
+                    "sourceId": "motleyfool.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.fool.com/investing/2026/06/19/3-reasons-to-buy-apple-stock/",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-apple-stock-070500304.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "09482cb4-1122-3f2c-a638-9633e5497832",
+            "content": {
+                "id": "09482cb4-1122-3f2c-a638-9633e5497832",
+                "contentType": "STORY",
+                "title": "Apple to work with Intel on US chip design and production, Trump says",
+                "description": "",
+                "summary": "President Donald Trump announced an Apple-Intel chip partnership as his administration pushes to bring semiconductor manufacturing back to the U.S. and reduce China reliance.",
+                "pubDate": "2026-06-19T05:37:28Z",
+                "displayTime": "2026-06-19T05:37:28Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/fox_business_text_367/52ae18b1d0fe5245d50e3f6a845ab9a4",
+                    "originalWidth": 1280,
+                    "originalHeight": 720,
+                    "caption": "Donald Trump and Tim Cook shake hands",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/SlWlblpxvgq.qcYVRmpWdA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/fox_business_text_367/52ae18b1d0fe5245d50e3f6a845ab9a4",
+                            "width": 1280,
+                            "height": 720,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/1g8AeKpLmeskDln7JYxnFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fox_business_text_367/52ae18b1d0fe5245d50e3f6a845ab9a4",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Fox Business",
+                    "url": "https://www.foxbusiness.com/",
+                    "sourceId": "fox_business_text_367"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.foxbusiness.com/technology/apple-work-intel-us-chip-design-production-trump-says",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/articles/apple-intel-us-chip-design-053728138.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "406d969f-3773-326b-a1e1-ade0ac1b683a",
+            "content": {
+                "id": "406d969f-3773-326b-a1e1-ade0ac1b683a",
+                "contentType": "STORY",
+                "title": "Wendell Weeks\u2019 Research Spending Has Paid Off for Corning Customers and Investors",
+                "description": "",
+                "summary": "BEST CEOS   Corning has spent 175 years manufacturing glass, albeit with radical shifts in focus, from Thomas Edison\u2019s light bulbs to Corning Ware dishes (sold in 1998) to optical fiber for the dot-com boom (and bust).",
+                "pubDate": "2026-06-19T05:00:00Z",
+                "displayTime": "2026-06-19T05:00:00Z",
+                "isHosted": false,
+                "bypassModal": false,
+                "previewUrl": "https://finance.yahoo.com/m/406d969f-3773-326b-a1e1-ade0ac1b683a/wendell-weeks%E2%80%99-research.html",
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/Barrons.com/1568f1fbfdab39a8a9dcde9fdd35b429",
+                    "originalWidth": 1280,
+                    "originalHeight": 640,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/OusHqqFzp7Po7St1wfsruQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/1568f1fbfdab39a8a9dcde9fdd35b429",
+                            "width": 1280,
+                            "height": 640,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/bwtFDoO1PRSDHxIUHvGZ7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/1568f1fbfdab39a8a9dcde9fdd35b429",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Barrons.com",
+                    "url": "http://www.barrons.com/",
+                    "sourceId": "Barrons.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.barrons.com/articles/corning-wendell-weeks-top-ceos-2026-532af7cd?siteid=yhoof2&yptr=yahoo",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": null,
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "c26a5356-43a5-38d1-8b7b-3e6981a049a5",
+            "content": {
+                "id": "c26a5356-43a5-38d1-8b7b-3e6981a049a5",
+                "contentType": "STORY",
+                "title": "Under Tim Cook, Apple\u2019s Stock Soared More Than 2,000%. Investors Will Miss Him.",
+                "description": "",
+                "summary": "Tim Cook will step down in September as  Apple  CEO.  To say he\u2019ll be missed by investors, and many others, is an understatement.  Cook, who succeeded  Apple\u2019s  co-founder and visionary leader, Steve Jobs, in 2011, presided over a 300% gain in revenue during his tenure.",
+                "pubDate": "2026-06-19T05:00:00Z",
+                "displayTime": "2026-06-19T05:00:00Z",
+                "isHosted": false,
+                "bypassModal": false,
+                "previewUrl": "https://finance.yahoo.com/m/c26a5356-43a5-38d1-8b7b-3e6981a049a5/under-tim-cook-apple%E2%80%99s-stock.html",
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/Barrons.com/905bd019912d9165e057d8b8860f5af7",
+                    "originalWidth": 1280,
+                    "originalHeight": 640,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/ebEOngAx9WCDfSTFrU7dGQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/905bd019912d9165e057d8b8860f5af7",
+                            "width": 1280,
+                            "height": 640,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/v_0gGP6VPm1C_8q0hzpAJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/905bd019912d9165e057d8b8860f5af7",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Barrons.com",
+                    "url": "http://www.barrons.com/",
+                    "sourceId": "Barrons.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.barrons.com/articles/apple-tim-cook-top-ceos-2026-2896c163?siteid=yhoof2&yptr=yahoo",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": null,
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        }
+    ],
+    "MSFT": [
+        {
+            "id": "e03f914d-59d9-4739-acc8-021c162996a3",
+            "content": {
+                "id": "e03f914d-59d9-4739-acc8-021c162996a3",
+                "contentType": "STORY",
+                "title": "SpaceX stock drops after breaking 3-day winning streak",
+                "description": "",
+                "summary": "SpaceX opened lower on Thursday, extending losses from the prior session.",
+                "pubDate": "2026-06-18T12:48:09Z",
+                "displayTime": "2026-06-18T20:47:22Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://s.yimg.com/uu/api/res/1.2/Q7TRDckWXNM3IKWnFcBnEQ--~B/aD01NzYwO3c9ODY0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/9775d09e-9df0-4a8c-b1de-9c1fa0d94ea1",
+                    "originalWidth": 8640,
+                    "originalHeight": 5760,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Q7TRDckWXNM3IKWnFcBnEQ--~B/aD01NzYwO3c9ODY0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/9775d09e-9df0-4a8c-b1de-9c1fa0d94ea1",
+                            "width": 8640,
+                            "height": 5760,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/CAmUR7dLKdZcTJiqyqIU8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/9775d09e-9df0-4a8c-b1de-9c1fa0d94ea1",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Yahoo Finance",
+                    "url": "http://finance.yahoo.com/",
+                    "sourceId": "yahoofinance.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-drops-after-breaking-3-day-winning-streak-124809291.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-drops-after-breaking-3-day-winning-streak-124809291.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": true
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "a84935ca-be16-32bc-9c08-735791267f1b",
+            "content": {
+                "id": "a84935ca-be16-32bc-9c08-735791267f1b",
+                "contentType": "STORY",
+                "title": "Google's AI Chip Strategy Gets More Ambitious",
+                "description": "",
+                "summary": "Custom AI chips may become bigger business",
+                "pubDate": "2026-06-19T12:09:22Z",
+                "displayTime": "2026-06-19T12:09:22Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": null,
+                "provider": {
+                    "displayName": "GuruFocus.com",
+                    "url": "http://www.gurufocus.com/",
+                    "sourceId": "us.finance.gurufocus"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/googles-ai-chip-strategy-gets-120922099.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/googles-ai-chip-strategy-gets-120922099.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "2bd6fd9a-b341-3f67-bbff-ec362b7807a1",
+            "content": {
+                "id": "2bd6fd9a-b341-3f67-bbff-ec362b7807a1",
+                "contentType": "STORY",
+                "title": "Microsoft picks Checkout.com as EMEA payments partner for key products",
+                "description": "",
+                "summary": "Microsoft will connect via the Microsoft Payments API, enabling payments to be routed through a single system.",
+                "pubDate": "2026-06-19T11:47:55Z",
+                "displayTime": "2026-06-19T11:47:55Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/electronic_payments_938/96d8ff7b58583110008c0c431bbc6d1e",
+                    "originalWidth": 1440,
+                    "originalHeight": 810,
+                    "caption": "Checkout.com will provide card acceptance for Microsoft business lines including Xbox",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/D.EIRuXp5yzhEl34P1Xdcw--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/electronic_payments_938/96d8ff7b58583110008c0c431bbc6d1e",
+                            "width": 1440,
+                            "height": 810,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/LFLavLhVlllKwr4j.eUOfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/electronic_payments_938/96d8ff7b58583110008c0c431bbc6d1e",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Electronic Payments",
+                    "url": "https://www.globaldata.com/",
+                    "sourceId": "electronic_payments_938"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.electronicpaymentsinternational.com/news/microsoft-picks-checkout-com-as-emea-payments-partner-for-key-products/",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/articles/microsoft-picks-checkout-com-emea-114755857.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "e60d537a-b8e7-3ed9-bc10-bf881c428dc5",
+            "content": {
+                "id": "e60d537a-b8e7-3ed9-bc10-bf881c428dc5",
+                "contentType": "VIDEO",
+                "title": "The Week in Numbers: SpaceX's colossal climb, Pizza Hut's price tag",
+                "description": "<title><body><p>STORY: \u00a0From SpaceX's colossal climb up the market...to Pizza Hut's price tag</p><p>This is the week in numbers.</p><p>:: The Week In Numbers</p><p>:: $2.52 trln</p><p>$2.52 trillion was the market cap given to SpaceX as shares of the rocket maker soared this week.</p><p>Elon Musk's company's value catapulted past Amazon's and briefly above Microsoft's.</p><p>Towards the end of the week though, shares dropped more than 6%...</p><p>as the post-IPO frenzy that briefly placed Elon Musk's rockets-to-AI firm...</p><p>among the world's top five most valuable companies, appeared to fizzle out.</p><p>:: 30%</p><p>30% is how much Allbirds shares soared by after the former footwear company changed its name to Smartbird.</p><p>The move cemented its months-long transformation from shoemaker to AI infrastructure firm, shifting its focus to offer cloud computing capacity.</p><p>The company also appointed former Amazon executive Nadia Carlsten as its new CEO.\u00a0</p><p>:: 7%</p><p>More than 7% is the hit BMW's shares took after the German automaker issued a profit warning.</p><p>The premium carmaker blamed ongoing weakness in the world's largest auto market China, and the impact of the Iran war on prices and customer sentiment.</p><p>Analysts said the outlook cut was significantly larger than expected.</p><p>BMW shares dipped to their lowest level since 2020.</p><p>:: $22 bln\u00a0</p><p>$22 billion is the amount media giant Fox is spending on buying streaming platform Roku.</p><p>The deal gives the parent company of Fox News access to Roku's more than 100 million households.</p><p>Potentially helping the legacy cable and broadcast company better compete for eyeballs, target its ads and reduce reliance on traditional distribution.\u00a0</p><p>:: $2.7 bln</p><p>$2.7 billion is the price tag Yum brands set for Pizza Hut as the fast-food business struggles with stiff competition and cautious consumer spending.</p><p>Rising inflation and higher commodity costs have weighed on U.S. pizza chains facing weak demand.</p><p>Growing use of weight-loss drugs is nudging consumers toward healthier options.</p></body></title>",
+                "summary": "<body><p>STORY: &nbsp;From SpaceX's colossal climb up the market...to Pizza Hut's price tag</p><p>This is the week in numbers.</p><p>:: The Week In Numbers</p><p>:: $2.52 trln</p><p>$2.52 trillion was the market cap given to SpaceX as shares of the rocket maker soared this week.</p><p>Elon Musk's company's value catapulted past Amazon's and briefly above Microsoft's.</p><p>Towards the end of the week though, shares dropped more than 6%...</p><p>as the post-IPO frenzy that briefly placed Elon Musk's rockets-to-AI firm...</p><p>among the world's top five most valuable companies, appeared to fizzle out.</p><p>:: 30%</p><p>30% is how much Allbirds shares soared by after the former footwear company changed its name to Smartbird.</p><p>The move cemented its months-long transformation from shoemaker to AI infrastructure firm, shifting its focus to offer cloud computing capacity.</p><p>The company also appointed former Amazon executive Nadia Carlsten as its new CEO.&nbsp;</p><p>:: 7%</p><p>More than 7% is the hit BMW's shares took after the German automaker issued a profit warning.</p><p>The premium carmaker blamed ongoing weakness in the world's largest auto market China, and the impact of the Iran war on prices and customer sentiment.</p><p>Analysts said the outlook cut was significantly larger than expected.</p><p>BMW shares dipped to their lowest level since 2020.</p><p>:: $22 bln&nbsp;</p><p>$22 billion is the amount media giant Fox is spending on buying streaming platform Roku.</p><p>The deal gives the parent company of Fox News access to Roku's more than 100 million households.</p><p>Potentially helping the legacy cable and broadcast company better compete for eyeballs, target its ads and reduce reliance on traditional distribution.&nbsp;</p><p>:: $2.7 bln</p><p>$2.7 billion is the price tag Yum brands set for Pizza Hut as the fast-food business struggles with stiff competition and cautious consumer spending.</p><p>Rising inflation and higher commodity costs have weighed on U.S. pizza chains facing weak demand.</p><p>Growing use of weight-loss drugs is nudging consumers toward healthier options.</p></body>",
+                "pubDate": "2026-06-19T10:42:08Z",
+                "displayTime": "",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://s.yimg.com/uu/api/res/1.2/jyqM1EHx_3XGcoiV.4Y3Qw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/8c533056-82bc-45be-9fd6-fea2f4324ed5/main/1280x720/1m2s136ms/match/image.jpg",
+                    "originalWidth": 1280,
+                    "originalHeight": 720,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/jyqM1EHx_3XGcoiV.4Y3Qw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/8c533056-82bc-45be-9fd6-fea2f4324ed5/main/1280x720/1m2s136ms/match/image.jpg",
+                            "width": 1280,
+                            "height": 720,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/05894LjoOUOzzYmzQIkbZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/8c533056-82bc-45be-9fd6-fea2f4324ed5/main/1280x720/1m2s136ms/match/image.jpg",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Reuters Videos",
+                    "url": "http://www.reuters.com/",
+                    "sourceId": "video.reutersnews.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/video/week-numbers-spacexs-colossal-climb-104208485.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/video/week-numbers-spacexs-colossal-climb-104208485.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "3460f10b-780a-326c-a769-6abf35a83ccf",
+            "content": {
+                "id": "3460f10b-780a-326c-a769-6abf35a83ccf",
+                "contentType": "STORY",
+                "title": "SpaceX Stock Gains the Size of Intel Since IPO. History Has a Warning.",
+                "description": "",
+                "summary": "The rockets and satellites company has jumped 37% from its $135 offer price in its first five trading days, gaining $673.8 billion in market cap over that period.",
+                "pubDate": "2026-06-19T10:41:00Z",
+                "displayTime": "2026-06-19T10:41:00Z",
+                "isHosted": false,
+                "bypassModal": false,
+                "previewUrl": "https://finance.yahoo.com/m/3460f10b-780a-326c-a769-6abf35a83ccf/spacex-stock-gains-the-size.html",
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/Barrons.com/460619e6e3161ec9ecb520117933a7d7",
+                    "originalWidth": 1280,
+                    "originalHeight": 640,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Uqw0N0Z6mplisFMaKY9FgA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/460619e6e3161ec9ecb520117933a7d7",
+                            "width": 1280,
+                            "height": 640,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/BQW.o0Bv3l2__IUwtlDKSQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/460619e6e3161ec9ecb520117933a7d7",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Barrons.com",
+                    "url": "http://www.barrons.com/",
+                    "sourceId": "Barrons.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.barrons.com/articles/spacex-stock-price-intel-ipo-66822793?siteid=yhoof2&yptr=yahoo",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": null,
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "c92c528e-5b9a-3daf-b577-528be291dee9",
+            "content": {
+                "id": "c92c528e-5b9a-3daf-b577-528be291dee9",
+                "contentType": "STORY",
+                "title": "Just 4 \"Magnificent Seven\" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",
+                "description": "",
+                "summary": "SpaceX wasted no time surpassing Amazon, Meta Platforms, and Tesla in market cap.",
+                "pubDate": "2026-06-19T10:20:00Z",
+                "displayTime": "2026-06-19T10:20:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a52dd5bf273518576cf35eccd8ba99dd",
+                    "originalWidth": 1200,
+                    "originalHeight": 633,
+                    "caption": "A trader raises their fists in excitement as they look at stock market data on screens.",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/V_.sYOSk2XF620oh7cwizA--~B/aD02MzM7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a52dd5bf273518576cf35eccd8ba99dd",
+                            "width": 1200,
+                            "height": 633,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/J6b_Oe6wpUF24lz6IuubUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a52dd5bf273518576cf35eccd8ba99dd",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Motley Fool",
+                    "url": "http://www.fool.com/",
+                    "sourceId": "motleyfool.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.fool.com/investing/2026/06/19/just-4-magnificent-seven-stocks-are-still-more-val/",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/just-4-magnificent-seven-stocks-102000337.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "f0ef1a96-0240-3d05-a69a-e1bf8d47cd83",
+            "content": {
+                "id": "f0ef1a96-0240-3d05-a69a-e1bf8d47cd83",
+                "contentType": "STORY",
+                "title": "The Best Nasdaq Stocks to Buy for Long-Term Upside",
+                "description": "",
+                "summary": "The best Nasdaq stocks to buy include familiar tech-related names, as well as companies with strong long-term upside potential operating in other sectors.",
+                "pubDate": "2026-06-19T10:00:00Z",
+                "displayTime": "2026-06-19T10:00:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/kiplinger_425/1a5962edcc638130a9eba0671c8b87b2",
+                    "originalWidth": 1024,
+                    "originalHeight": 683,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/LnTT00M6Pwe932SEl369yQ--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/kiplinger_425/1a5962edcc638130a9eba0671c8b87b2",
+                            "width": 1024,
+                            "height": 683,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/lDKt4egSeuWLvysQTRDroQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger_425/1a5962edcc638130a9eba0671c8b87b2",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Kiplinger",
+                    "url": "https://www.kiplinger.com/",
+                    "sourceId": "kiplinger_425"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.kiplinger.com/investing/stocks/the-best-nasdaq-stocks-to-buy-for-long-term-upside",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/best-nasdaq-stocks-buy-long-100000571.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "5e4a8f63-fd61-3f83-9c0c-6c255e6dd560",
+            "content": {
+                "id": "5e4a8f63-fd61-3f83-9c0c-6c255e6dd560",
+                "contentType": "STORY",
+                "title": "How BHP (BHP) Is Using AI to Improve Copper Extraction as Supply Gets Harder to Grow",
+                "description": "",
+                "summary": "BHP Group Limited (NYSE:BHP) is one of the best copper stocks to buy for the AI and electrification boom. On June 3, 2026, BHP said it was collaborating with Microsoft and Prescience Insilico to accelerate the discovery of advanced copper leaching solutions. The project uses Microsoft Discovery, high-performance computing, and AI agents to screen molecules [\u2026]",
+                "pubDate": "2026-06-19T09:56:57Z",
+                "displayTime": "2026-06-19T09:56:57Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/f54f3784336b26731a750ba4771083b1",
+                    "originalWidth": 1280,
+                    "originalHeight": 653,
+                    "caption": "How BHP (BHP) Is Using AI to Improve Copper Extraction as Supply Gets Harder to Grow",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/lRlHmqZyi3ldtKTonS8pBw--~B/aD02NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/f54f3784336b26731a750ba4771083b1",
+                            "width": 1280,
+                            "height": 653,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/N.023kjm5cfQJiUFu4fNFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f54f3784336b26731a750ba4771083b1",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Insider Monkey",
+                    "url": "http://www.insidermonkey.com",
+                    "sourceId": "insidermonkey.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/bhp-bhp-using-ai-improve-095657584.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/bhp-bhp-using-ai-improve-095657584.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "cd150b74-c1e1-3fb3-90d9-240abf8a81d2",
+            "content": {
+                "id": "cd150b74-c1e1-3fb3-90d9-240abf8a81d2",
+                "contentType": "STORY",
+                "title": "Amazon points to water conservation steps in India amid data centre scrutiny",
+                "description": "",
+                "summary": "Amazon said on Friday its Indian operations had reached a major milestone in \u200cwater conservation, at a time when global tech giants face increasing pressure \u200cover their expansion of resource-hungry AI data centres.  The U.S.-based company announced it had turned \"water positive\" in \u200bIndia this year - meaning it returns more water to communities than it uses across its operations, which include data centres, corporate offices and warehouses.  Amazon, Microsoft and Alphabet's Google are among companies that are facing shareholder and activist pushback \u2060over the environmental impact of data centre projects, Reuters reported earlier this year.",
+                "pubDate": "2026-06-19T09:07:49Z",
+                "displayTime": "2026-06-19T09:07:49Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/ca03f2ac09bfd2bceaefe47264744239",
+                    "originalWidth": 800,
+                    "originalHeight": 533,
+                    "caption": "Retail Leadership Summit in Mumbai",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/qEriNiLBGE8le8YQ2JnsPw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ca03f2ac09bfd2bceaefe47264744239",
+                            "width": 800,
+                            "height": 533,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/d8hKb.T3IuLTtyN.VvoU6Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ca03f2ac09bfd2bceaefe47264744239",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Reuters",
+                    "url": "http://www.reuters.com/",
+                    "sourceId": "reuters-finance.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/articles/amazon-points-water-conservation-steps-090749258.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/articles/amazon-points-water-conservation-steps-090749258.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "41a03308-f946-3f85-aea0-71eabb64fb9a",
+            "content": {
+                "id": "41a03308-f946-3f85-aea0-71eabb64fb9a",
+                "contentType": "STORY",
+                "title": "Satya Nadella Has Positioned Microsoft to Grow. Investors Are Missing the Point.",
+                "description": "",
+                "summary": "When Satya Nadella became  Microsoft  CEO in 2014, the software company was stuck in the mud.  Its Windows and Office franchises had matured, and forays into consumer devices and mobile operating systems had failed.  Nadella, 58, regained investor confidence with a shift to the cloud and a less cutthroat culture.",
+                "pubDate": "2026-06-19T05:00:00Z",
+                "displayTime": "2026-06-19T05:00:00Z",
+                "isHosted": false,
+                "bypassModal": false,
+                "previewUrl": "https://finance.yahoo.com/m/41a03308-f946-3f85-aea0-71eabb64fb9a/satya-nadella-has-positioned.html",
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/Barrons.com/cfcafecca79be52069fb09f91b29516e",
+                    "originalWidth": 1280,
+                    "originalHeight": 640,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/HBBgDPgoReiok330apX4vg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/cfcafecca79be52069fb09f91b29516e",
+                            "width": 1280,
+                            "height": 640,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/JR9fYskLXnYblN_xyUbCnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/cfcafecca79be52069fb09f91b29516e",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Barrons.com",
+                    "url": "http://www.barrons.com/",
+                    "sourceId": "Barrons.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.barrons.com/articles/satya-microsoft-satya-nadella-top-ceos-2026-8a398e23?siteid=yhoof2&yptr=yahoo",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": null,
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        }
+    ],
+    "GOOG": [
+        {
+            "id": "28abc9dd-5008-4816-b950-252b9075005a",
+            "content": {
+                "id": "28abc9dd-5008-4816-b950-252b9075005a",
+                "contentType": "STORY",
+                "title": "How SpaceX benefits from its Cursor acquisition",
+                "description": "",
+                "summary": "SpaceX's SpaceXAI should get a solid boost from its Cursor acquisition, but it will still need to compete with rivals like OpenAI and Anthropic.",
+                "pubDate": "2026-06-19T12:30:00Z",
+                "displayTime": "2026-06-19T12:30:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://s.yimg.com/uu/api/res/1.2/pdj1KCj1NMG78FrXfg3NtQ--~B/aD0xNzQyO3c9MzA5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2c0e0ea5-63f7-4b81-ad3e-7bccdd94a861_94f83e5cbaf543e49d3b3c701d29f9937374bf108e54ac019c482975e40e48b5.jpg",
+                    "originalWidth": 3096,
+                    "originalHeight": 1742,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/pdj1KCj1NMG78FrXfg3NtQ--~B/aD0xNzQyO3c9MzA5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2c0e0ea5-63f7-4b81-ad3e-7bccdd94a861_94f83e5cbaf543e49d3b3c701d29f9937374bf108e54ac019c482975e40e48b5.jpg",
+                            "width": 3096,
+                            "height": 1742,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/pgQdoKlZ4.N7pBYSz80Dmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2c0e0ea5-63f7-4b81-ad3e-7bccdd94a861_94f83e5cbaf543e49d3b3c701d29f9937374bf108e54ac019c482975e40e48b5.jpg",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Yahoo Finance",
+                    "url": "http://finance.yahoo.com/",
+                    "sourceId": "yahoofinance.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/article/how-spacex-benefits-from-its-cursor-acquisition-123000466.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/article/how-spacex-benefits-from-its-cursor-acquisition-123000466.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": true
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "0701cffd-d3a6-3e25-b1bb-9083c73b7477",
+            "content": {
+                "id": "0701cffd-d3a6-3e25-b1bb-9083c73b7477",
+                "contentType": "STORY",
+                "title": "Google Takes Aim at Nvidia",
+                "description": "",
+                "summary": "Alphabet is pushing its TPU chips deeper into the AI data center market.",
+                "pubDate": "2026-06-19T12:34:37Z",
+                "displayTime": "2026-06-19T12:34:37Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": null,
+                "provider": {
+                    "displayName": "GuruFocus.com",
+                    "url": "http://www.gurufocus.com/",
+                    "sourceId": "us.finance.gurufocus"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/google-takes-aim-nvidia-123437711.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/google-takes-aim-nvidia-123437711.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "3cbff6de-bc91-339b-a5b3-e784af89d648",
+            "content": {
+                "id": "3cbff6de-bc91-339b-a5b3-e784af89d648",
+                "contentType": "STORY",
+                "title": "Alphabet (GOOGL) Addresses Public Concerns Around Self-Driving Cars",
+                "description": "",
+                "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 10 best electric and autonomous driving stocks to buy according to hedge funds. On June 11, Alphabet Inc.\u2019s (NASDAQ:GOOGL) subsidiary, Waymo, unveiled a nationwide TV commercial campaign geared towards addressing public doubts about self-driving cars as well as establishing itself amid stiff competition. Planned to air Friday on [\u2026]",
+                "pubDate": "2026-06-19T12:19:02Z",
+                "displayTime": "2026-06-19T12:19:02Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/bd944a9738b7f98558d5ec43db17ed47",
+                    "originalWidth": 880,
+                    "originalHeight": 544,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/7xU3m1lDhqEnS8VdlwEgjg--~B/aD01NDQ7dz04ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/bd944a9738b7f98558d5ec43db17ed47",
+                            "width": 880,
+                            "height": 544,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/_gSkhby9myEw1rHdY.VFNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/bd944a9738b7f98558d5ec43db17ed47",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Insider Monkey",
+                    "url": "http://www.insidermonkey.com",
+                    "sourceId": "insidermonkey.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/articles/alphabet-googl-addresses-public-concerns-121902728.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/articles/alphabet-googl-addresses-public-concerns-121902728.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "bfd621fc-b1d0-3419-a64a-bb89e6dfcd86",
+            "content": {
+                "id": "bfd621fc-b1d0-3419-a64a-bb89e6dfcd86",
+                "contentType": "STORY",
+                "title": "Social Media Faces New Child Safety Test",
+                "description": "",
+                "summary": "Platforms face stricter age verification requirements ahead",
+                "pubDate": "2026-06-19T12:10:36Z",
+                "displayTime": "2026-06-19T12:10:36Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": null,
+                "provider": {
+                    "displayName": "GuruFocus.com",
+                    "url": "http://www.gurufocus.com/",
+                    "sourceId": "us.finance.gurufocus"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/media-advertising/articles/social-media-faces-child-safety-121036278.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/media-advertising/articles/social-media-faces-child-safety-121036278.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "a84935ca-be16-32bc-9c08-735791267f1b",
+            "content": {
+                "id": "a84935ca-be16-32bc-9c08-735791267f1b",
+                "contentType": "STORY",
+                "title": "Google's AI Chip Strategy Gets More Ambitious",
+                "description": "",
+                "summary": "Custom AI chips may become bigger business",
+                "pubDate": "2026-06-19T12:09:22Z",
+                "displayTime": "2026-06-19T12:09:22Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": null,
+                "provider": {
+                    "displayName": "GuruFocus.com",
+                    "url": "http://www.gurufocus.com/",
+                    "sourceId": "us.finance.gurufocus"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/googles-ai-chip-strategy-gets-120922099.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/googles-ai-chip-strategy-gets-120922099.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "cc87a7cd-19af-30db-8772-12ca58240f76",
+            "content": {
+                "id": "cc87a7cd-19af-30db-8772-12ca58240f76",
+                "contentType": "STORY",
+                "title": "Palantir (PLTR) Partners with Google Cloud to Integrate AIP and Foundry Platforms",
+                "description": "",
+                "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) is one of the best US stocks to buy and hold for the next 5 years. On June 4, Palantir partnered with Google Cloud to integrate its Foundry and AIP platforms with BigQuery, Gemini, and the Google Knowledge Catalog. Available via the Google Cloud Marketplace, this partnership enables two-way data federation [\u2026]",
+                "pubDate": "2026-06-19T10:22:57Z",
+                "displayTime": "2026-06-19T10:22:57Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/8a9d1ba188a90409bcbe222a12e7c629",
+                    "originalWidth": 800,
+                    "originalHeight": 533,
+                    "caption": "Palantir (PLTR) Partners with Google Cloud to Integrate AIP and Foundry Platforms",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/tz2A7A93aldiejbLPX.JVw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8a9d1ba188a90409bcbe222a12e7c629",
+                            "width": 800,
+                            "height": 533,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/DbBsEBYDcGTdksM.q1O4pw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8a9d1ba188a90409bcbe222a12e7c629",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Insider Monkey",
+                    "url": "http://www.insidermonkey.com",
+                    "sourceId": "insidermonkey.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-partners-google-cloud-102257694.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-partners-google-cloud-102257694.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "c92c528e-5b9a-3daf-b577-528be291dee9",
+            "content": {
+                "id": "c92c528e-5b9a-3daf-b577-528be291dee9",
+                "contentType": "STORY",
+                "title": "Just 4 \"Magnificent Seven\" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",
+                "description": "",
+                "summary": "SpaceX wasted no time surpassing Amazon, Meta Platforms, and Tesla in market cap.",
+                "pubDate": "2026-06-19T10:20:00Z",
+                "displayTime": "2026-06-19T10:20:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a52dd5bf273518576cf35eccd8ba99dd",
+                    "originalWidth": 1200,
+                    "originalHeight": 633,
+                    "caption": "A trader raises their fists in excitement as they look at stock market data on screens.",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/V_.sYOSk2XF620oh7cwizA--~B/aD02MzM7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a52dd5bf273518576cf35eccd8ba99dd",
+                            "width": 1200,
+                            "height": 633,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/J6b_Oe6wpUF24lz6IuubUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a52dd5bf273518576cf35eccd8ba99dd",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Motley Fool",
+                    "url": "http://www.fool.com/",
+                    "sourceId": "motleyfool.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.fool.com/investing/2026/06/19/just-4-magnificent-seven-stocks-are-still-more-val/",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/just-4-magnificent-seven-stocks-102000337.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "b5dbac57-4d45-3d01-8a9e-aa995060c6ef",
+            "content": {
+                "id": "b5dbac57-4d45-3d01-8a9e-aa995060c6ef",
+                "contentType": "STORY",
+                "title": "The SpaceX Era Is Making the Magnificent Seven Irrelevant",
+                "description": "",
+                "summary": "What\u2019s the point of the Magnificent Seven? Investors are wondering if the group still makes following SpaceX\u2019s stellar debut.",
+                "pubDate": "2026-06-19T10:07:00Z",
+                "displayTime": "2026-06-19T10:07:00Z",
+                "isHosted": false,
+                "bypassModal": false,
+                "previewUrl": "https://finance.yahoo.com/m/b5dbac57-4d45-3d01-8a9e-aa995060c6ef/the-spacex-era-is-making-the.html",
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/Barrons.com/cb3d15086f9bcf88ad16f510a2413a39",
+                    "originalWidth": 1280,
+                    "originalHeight": 640,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/4wvqD_ep4bdu2GsakXN.6g--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/cb3d15086f9bcf88ad16f510a2413a39",
+                            "width": 1280,
+                            "height": 640,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/1PvZOEep2qdUqjFvmvIX1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/cb3d15086f9bcf88ad16f510a2413a39",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Barrons.com",
+                    "url": "http://www.barrons.com/",
+                    "sourceId": "Barrons.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.barrons.com/articles/spacex-stock-magnificent-seven-c7cdd078?siteid=yhoof2&yptr=yahoo",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": null,
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "90aef9f8-ce05-34e4-8d01-bace5a44c7be",
+            "content": {
+                "id": "90aef9f8-ce05-34e4-8d01-bace5a44c7be",
+                "contentType": "STORY",
+                "title": "SpaceX (SPCX) Is Up 14.9% After Record IPO And $60 Billion Cursor AI Deal - What's Changed",
+                "description": "",
+                "summary": "In mid-June 2026, Space Exploration Technologies Corp. completed the largest IPO in history, raising roughly US$75\u201386 billion and rapidly secured inclusion in major Nasdaq indexes while agreeing to acquire AI coding platform Cursor in an all-stock deal valued at US$60 billion. These moves accelerate SpaceX\u2019s shift from pure launch and satellite operations toward AI infrastructure and enterprise software, with Google and Anthropic signing multiyear GPU and data-center contracts worth tens of...",
+                "pubDate": "2026-06-19T09:16:06Z",
+                "displayTime": "2026-06-19T09:16:06Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/c2812f0390355efb37808cf9f9c522ed",
+                    "originalWidth": 1194,
+                    "originalHeight": 432,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/ajikmN9CC9KDJi7I0FPVRQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/c2812f0390355efb37808cf9f9c522ed",
+                            "width": 1194,
+                            "height": 432,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/EJZjhisl2EeARjd9pqS.CQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/c2812f0390355efb37808cf9f9c522ed",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Simply Wall St.",
+                    "url": "https://simplywall.st/",
+                    "sourceId": "simply_wall_st__316"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-14-9-record-091606982.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-14-9-record-091606982.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "cd150b74-c1e1-3fb3-90d9-240abf8a81d2",
+            "content": {
+                "id": "cd150b74-c1e1-3fb3-90d9-240abf8a81d2",
+                "contentType": "STORY",
+                "title": "Amazon points to water conservation steps in India amid data centre scrutiny",
+                "description": "",
+                "summary": "Amazon said on Friday its Indian operations had reached a major milestone in \u200cwater conservation, at a time when global tech giants face increasing pressure \u200cover their expansion of resource-hungry AI data centres.  The U.S.-based company announced it had turned \"water positive\" in \u200bIndia this year - meaning it returns more water to communities than it uses across its operations, which include data centres, corporate offices and warehouses.  Amazon, Microsoft and Alphabet's Google are among companies that are facing shareholder and activist pushback \u2060over the environmental impact of data centre projects, Reuters reported earlier this year.",
+                "pubDate": "2026-06-19T09:07:49Z",
+                "displayTime": "2026-06-19T09:07:49Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/ca03f2ac09bfd2bceaefe47264744239",
+                    "originalWidth": 800,
+                    "originalHeight": 533,
+                    "caption": "Retail Leadership Summit in Mumbai",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/qEriNiLBGE8le8YQ2JnsPw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ca03f2ac09bfd2bceaefe47264744239",
+                            "width": 800,
+                            "height": 533,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/d8hKb.T3IuLTtyN.VvoU6Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/ca03f2ac09bfd2bceaefe47264744239",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Reuters",
+                    "url": "http://www.reuters.com/",
+                    "sourceId": "reuters-finance.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/articles/amazon-points-water-conservation-steps-090749258.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/articles/amazon-points-water-conservation-steps-090749258.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        }
+    ],
+    "RELIANCE": [
+        {
+            "id": "8b2e3edb-c20b-3936-ab0c-5cb75b6a53d8",
+            "content": {
+                "id": "8b2e3edb-c20b-3936-ab0c-5cb75b6a53d8",
+                "contentType": "STORY",
+                "title": "How The Story On Reliance Industries (NSEI:RELIANCE) Is Shifting As Analysts Rework Fair Value",
+                "description": "",
+                "summary": "Reliance Industries has seen its modelled fair value edge from \u20b91,719.94 to \u20b91,732.03, a modest adjustment that still matters if you are tracking where analysts think the stock should sit. The shift echoes how recent research on peers like Ryder shows analysts tweaking fair values as they reassess earnings visibility, execution risk and the conviction behind their assumptions. Read on to see how to interpret this latest move and keep up with the evolving narrative around Reliance...",
+                "pubDate": "2026-04-17T23:07:07Z",
+                "displayTime": "2026-04-17T23:07:07Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0485d0c1021bfa3ad2518a171bbc021d",
+                    "originalWidth": 1194,
+                    "originalHeight": 432,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/afwZ9FGjLmcR0P9A0eObAg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0485d0c1021bfa3ad2518a171bbc021d",
+                            "width": 1194,
+                            "height": 432,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/hgDWMeCKA94KLZ_d6_T8pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0485d0c1021bfa3ad2518a171bbc021d",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Simply Wall St.",
+                    "url": "https://simplywall.st/",
+                    "sourceId": "simply_wall_st__316"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/story-reliance-industries-nsei-reliance-230707371.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/story-reliance-industries-nsei-reliance-230707371.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "a93eb5f0-a11d-340c-90c4-328fcf2820f7",
+            "content": {
+                "id": "a93eb5f0-a11d-340c-90c4-328fcf2820f7",
+                "contentType": "STORY",
+                "title": "How The Investment Story For Reliance Industries (NSEI:RELIANCE) Is Quietly Shifting On New Assumptions",
+                "description": "",
+                "summary": "Reliance Industries has seen its assessed fair value adjusted slightly higher, from \u20b91,717.11 to \u20b91,719.94, a move of about \u20b92.83. This kind of fine tuning lines up with how analysts across sectors are currently tweaking price targets rather than overhauling their views after strong share price moves. Read on to see what is driving this update and how you can track the evolving narrative around Reliance from here. Stay updated as the Fair Value for Reliance Industries shifts by adding it to...",
+                "pubDate": "2026-04-03T14:07:15Z",
+                "displayTime": "2026-04-03T14:07:15Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0485d0c1021bfa3ad2518a171bbc021d",
+                    "originalWidth": 1194,
+                    "originalHeight": 432,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/afwZ9FGjLmcR0P9A0eObAg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0485d0c1021bfa3ad2518a171bbc021d",
+                            "width": 1194,
+                            "height": 432,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/hgDWMeCKA94KLZ_d6_T8pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0485d0c1021bfa3ad2518a171bbc021d",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Simply Wall St.",
+                    "url": "https://simplywall.st/",
+                    "sourceId": "simply_wall_st__316"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/investment-story-reliance-industries-nsei-140715800.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/investment-story-reliance-industries-nsei-140715800.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "f49a1805-8f67-3df2-9b8e-29227986aaff",
+            "content": {
+                "id": "f49a1805-8f67-3df2-9b8e-29227986aaff",
+                "contentType": "STORY",
+                "title": "How The Reliance Industries (NSEI:RELIANCE) Story Is Evolving On Small Valuation Tweaks And New Deals",
+                "description": "",
+                "summary": "Reliance Industries has seen its modelled fair value adjusted slightly, from \u20b91,718.08 to \u20b91,717.11, a change of less than \u20b91. Street research on transport names such as Ryder shows how analysts often fine tune targets when they reassess earnings assumptions and valuation frameworks, which helps put this minor reset for Reliance into context. As you read on, you will see how to interpret these small price target moves and track the evolving analyst story around the stock. Analyst Price...",
+                "pubDate": "2026-03-20T10:06:50Z",
+                "displayTime": "2026-03-20T10:06:50Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0485d0c1021bfa3ad2518a171bbc021d",
+                    "originalWidth": 1194,
+                    "originalHeight": 432,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/afwZ9FGjLmcR0P9A0eObAg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0485d0c1021bfa3ad2518a171bbc021d",
+                            "width": 1194,
+                            "height": 432,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/hgDWMeCKA94KLZ_d6_T8pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0485d0c1021bfa3ad2518a171bbc021d",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Simply Wall St.",
+                    "url": "https://simplywall.st/",
+                    "sourceId": "simply_wall_st__316"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-industries-nsei-reliance-story-100650348.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-industries-nsei-reliance-story-100650348.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        }
+    ],
+    "IBM": [
+        {
+            "id": "8ee089c2-787b-3936-b2d0-173f21d5108a",
+            "content": {
+                "id": "8ee089c2-787b-3936-b2d0-173f21d5108a",
+                "contentType": "STORY",
+                "title": "Better Quantum Computing Stock to Buy: IonQ vs. Rigetti",
+                "description": "",
+                "summary": "IonQ and Rigetti are two of the most popular pure-play stocks on the market.",
+                "pubDate": "2026-06-19T07:43:00Z",
+                "displayTime": "2026-06-19T07:43:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/motleyfool.com/302f68cbe78c09651e8022e448ae79e0",
+                    "originalWidth": 1400,
+                    "originalHeight": 770,
+                    "caption": "A quantum computing cell.",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/dmY1IW_kfTVTeWPO_NsFbw--~B/aD03NzA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/302f68cbe78c09651e8022e448ae79e0",
+                            "width": 1400,
+                            "height": 770,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/iQnxbSDJv_yxin59vfjnKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/302f68cbe78c09651e8022e448ae79e0",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Motley Fool",
+                    "url": "http://www.fool.com/",
+                    "sourceId": "motleyfool.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.fool.com/investing/2026/06/19/better-quantum-computing-stock-to-buy-ionq-rigetti/",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/better-quantum-computing-stock-buy-074300058.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "b669f404-77e3-3b03-a8ea-534872fb3e1e",
+            "content": {
+                "id": "b669f404-77e3-3b03-a8ea-534872fb3e1e",
+                "contentType": "STORY",
+                "title": "PLTR Stock: The Math Hidden In Its Price",
+                "description": "",
+                "summary": "Palantir Technologies (PLTR) stock trades at $130.63 per share, a market cap of $312.7B, and 137.1x trailing P/E. That is a meaningful premium. The question is not whether the stock is \"cheap\" or \"expensive\" in the abstract. It is what the market is implicitly assuming about the business in order to justify paying this price.",
+                "pubDate": "2026-06-18T22:43:16Z",
+                "displayTime": "2026-06-18T22:43:16Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/trefis_142/5a244008120629ff6da292a0e3ab9a6e",
+                    "originalWidth": 1920,
+                    "originalHeight": 1282,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/0kKkFMeGFhHSUUYk7a_ulQ--~B/aD0xMjgyO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/trefis_142/5a244008120629ff6da292a0e3ab9a6e",
+                            "width": 1920,
+                            "height": 1282,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/gee7ETxWeEG.8FE4pQj4XQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/5a244008120629ff6da292a0e3ab9a6e",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Trefis",
+                    "url": "https://www.trefis.com/",
+                    "sourceId": "trefis_142"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.trefis.com/articles/603578/pltr-stock-the-math-hidden-in-its-price-3/2026-06-18",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/pltr-stock-math-hidden-price-224316222.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "408e401c-bf32-3bad-87e1-09302516c8cb",
+            "content": {
+                "id": "408e401c-bf32-3bad-87e1-09302516c8cb",
+                "contentType": "STORY",
+                "title": "Stocks Rally on Middle East Peace, Apple-Intel Deal: Stock Market Today",
+                "description": "",
+                "summary": "Investors, traders and speculators set aside their worries about interest rates to celebrate peace in the Middle East and AAPL-INTC again.",
+                "pubDate": "2026-06-18T20:10:38Z",
+                "displayTime": "2026-06-18T20:10:38Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/kiplinger_425/064b685ca9d625679c182abc8c445777",
+                    "originalWidth": 1024,
+                    "originalHeight": 683,
+                    "caption": " Apple logo and Intel logo. ",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/WmPcgaWSTtviMuwUbSTmGQ--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/kiplinger_425/064b685ca9d625679c182abc8c445777",
+                            "width": 1024,
+                            "height": 683,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/ChF4W4yugCKCCQGRJRm3lQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger_425/064b685ca9d625679c182abc8c445777",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Kiplinger",
+                    "url": "https://www.kiplinger.com/",
+                    "sourceId": "kiplinger_425"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.kiplinger.com/investing/stocks/stocks-rally-on-middle-east-peace-apple-intel-deal-stock-market-today",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-middle-east-peace-201038395.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "7ee5a96f-42bc-3d24-96a8-97cd0b5d79d7",
+            "content": {
+                "id": "7ee5a96f-42bc-3d24-96a8-97cd0b5d79d7",
+                "contentType": "STORY",
+                "title": "Tim Cook Says Chip Wars Will Take a Big Bite of Apple",
+                "description": "",
+                "summary": "The memory tax is coming at Apple at a time when it's already battered with existing tariff drama.",
+                "pubDate": "2026-06-18T19:39:39Z",
+                "displayTime": "2026-06-18T19:39:39Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/moby_896/2d7a658a032f52cd7b1e44c1efcfb37a",
+                    "originalWidth": 928,
+                    "originalHeight": 1152,
+                    "caption": "Tim Cook Says Chip Wars Will Take a Big Bite of Apple",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/4m_mviVUzkIJLv8su70Ycg--~B/aD0xMTUyO3c9OTI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moby_896/2d7a658a032f52cd7b1e44c1efcfb37a",
+                            "width": 928,
+                            "height": 1152,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/PaB4bs0EMESeileefPyWmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/2d7a658a032f52cd7b1e44c1efcfb37a",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Moby",
+                    "url": "https://moby.co/",
+                    "sourceId": "moby_896"
+                },
+                "canonicalUrl": {
+                    "url": "https://app.moby.co/home/news/news-tim-cook-says-chip-wars-will-take-a-big-bite-of-apple?utm_source=yahoo_finance&utm_medium=rss",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/articles/tim-cook-says-chip-wars-193939855.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "1a9bdbbd-429a-3b0f-bd40-068f6a9e0102",
+            "content": {
+                "id": "1a9bdbbd-429a-3b0f-bd40-068f6a9e0102",
+                "contentType": "STORY",
+                "title": "Stocks Supported as Geopolitical Risks Recede",
+                "description": "",
+                "summary": "The S&P 500 Index ($SPX ) (SPY ) today is up +0.99%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.61%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.16%. September E-mini S&P futures (ESU26 ) are up +0.99%, and September E-mini Nasdaq futures...",
+                "pubDate": "2026-06-18T15:17:09Z",
+                "displayTime": "2026-06-18T15:17:09Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/barchart_com_477/553713714e08964d7b30695b362ebe11",
+                    "originalWidth": 1600,
+                    "originalHeight": 1068,
+                    "caption": "Fearless Girl statue New York by Vivalapenler via iStock",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/deIpxechOycyPeqAirv2Ag--~B/aD0xMDY4O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/553713714e08964d7b30695b362ebe11",
+                            "width": 1600,
+                            "height": 1068,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/KwI3ZoSaXZvo.gw.6VkQHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/553713714e08964d7b30695b362ebe11",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Barchart",
+                    "url": "https://www.barchart.com/",
+                    "sourceId": "barchart_com_477"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.barchart.com/story/news/2539862/stocks-supported-as-geopolitical-risks-recede",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-geopolitical-risks-recede-151709682.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "6efc08e9-9a60-38d9-96cc-bac56be7c41a",
+            "content": {
+                "id": "6efc08e9-9a60-38d9-96cc-bac56be7c41a",
+                "contentType": "STORY",
+                "title": "The Number That Puts Oracle Stock To The Test",
+                "description": "",
+                "summary": "For an investor in Oracle (ORCL), the headlines are dizzying. The company is signing AI infrastructure contracts by the tens of billions and has built a backlog of future business that seems to defy gravity. Yet the stock has been under pressure, down 12.2% over the past year, suggesting the market sees more to the story.",
+                "pubDate": "2026-06-18T15:04:34Z",
+                "displayTime": "2026-06-18T15:04:34Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/trefis_142/21472cc541eddccb9d7006b756f72e45",
+                    "originalWidth": 1920,
+                    "originalHeight": 1280,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/RuzvG8kA5o_InMSxxcxA.w--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/trefis_142/21472cc541eddccb9d7006b756f72e45",
+                            "width": 1920,
+                            "height": 1280,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/DaD8hw3m5TeWX0ceTp87og--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/21472cc541eddccb9d7006b756f72e45",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Trefis",
+                    "url": "https://www.trefis.com/",
+                    "sourceId": "trefis_142"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.trefis.com/articles/603587/the-number-that-puts-oracle-stock-to-the-test/2026-06-18",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/number-puts-oracle-stock-test-150434138.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "2a274cf2-dbd2-3ffe-82d8-6fa57bf145e9",
+            "content": {
+                "id": "2a274cf2-dbd2-3ffe-82d8-6fa57bf145e9",
+                "contentType": "STORY",
+                "title": "Why is ServiceNow (NOW) the Best Generative AI Software Stock to Buy in June",
+                "description": "",
+                "summary": "ServiceNow (NYSE:NOW) is one of the 8 Best Generative AI Software Stocks to Buy in June 2026. Based on 50 analyst ratings compiled by CNN, 90% assigned a Buy rating to ServiceNow, while 8% assigned a Hold rating. The stock has an average price target of $135, a 29.62% upside from the current price of [\u2026]",
+                "pubDate": "2026-06-18T15:03:20Z",
+                "displayTime": "2026-06-18T15:03:20Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/51263d3d0f4c550afb6e0dbf3b80d1d9",
+                    "originalWidth": 1920,
+                    "originalHeight": 1280,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/5OkdOvyi2uuvOdLajWnyOw--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/51263d3d0f4c550afb6e0dbf3b80d1d9",
+                            "width": 1920,
+                            "height": 1280,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/BI3RTIMNkDyMlAmYXRcNqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/51263d3d0f4c550afb6e0dbf3b80d1d9",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Insider Monkey",
+                    "url": "http://www.insidermonkey.com",
+                    "sourceId": "insidermonkey.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/why-servicenow-now-best-generative-150320993.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/why-servicenow-now-best-generative-150320993.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "99cc038c-cb31-3b53-94e5-8b8112b5dee1",
+            "content": {
+                "id": "99cc038c-cb31-3b53-94e5-8b8112b5dee1",
+                "contentType": "STORY",
+                "title": "Dow Jumps 200 Points After Fed-Related Sell-Off \u2013 Index On Track To Post Best Week In A Month",
+                "description": "",
+                "summary": "U.S. stocks rose in early Thursday trading, rebounding from the previous session\u2019s Fed-driven selloff as falling oil prices and optimism surrounding the Iran peace deal boosted investor sentiment.",
+                "pubDate": "2026-06-18T14:52:04Z",
+                "displayTime": "2026-06-18T14:52:04Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/stocktwits_383/e480d9463f7fd2de891bbf7785a093fe",
+                    "originalWidth": 1280,
+                    "originalHeight": 853,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/alG6nye_AFwJAVa3UOuewQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/e480d9463f7fd2de891bbf7785a093fe",
+                            "width": 1280,
+                            "height": 853,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/Tcv1Q30zNEhcKUaIcS0QSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/e480d9463f7fd2de891bbf7785a093fe",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Stocktwits",
+                    "url": "Stocktwits",
+                    "sourceId": "stocktwits_383"
+                },
+                "canonicalUrl": {
+                    "url": "https://stocktwits.com/news-articles/markets/equity/dow-jumps-after-fed-selloff-iran-deal-crude-lift-sentiment/cZKk4bRR77W",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/dow-jumps-200-points-fed-145204745.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "d109a276-b525-3705-af06-6069c4593729",
+            "content": {
+                "id": "d109a276-b525-3705-af06-6069c4593729",
+                "contentType": "STORY",
+                "title": "Oracle Is Burning Billions: Is IBM Stock The Smarter Cloud Play?",
+                "description": "",
+                "summary": "Oracle\u2019s (ORCL) stock is up by over 120% since the beginning of 2023. That is great for Oracle. But wait a minute, IBM\u2019s (IBM) stock is up a comparatively lower 91% during the same period. Hard to believe, but Oracle\u2019s stock appreciation is well ahead of IBM\u2019s stock. This is despite the stark contrast in how both companies generate cash. Over the trailing twelve months, IBM consistently generated massive free cash flow, pulling in a highly robust $12.2 billion. Oracle, over its most recently rep",
+                "pubDate": "2026-06-18T13:02:49Z",
+                "displayTime": "2026-06-18T13:02:49Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/trefis_142/af13bfcecf054f6f3da33cdb950afa3a",
+                    "originalWidth": 1024,
+                    "originalHeight": 685,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/JhFKJBaKU7mkov7Ze.g2Ow--~B/aD02ODU7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/af13bfcecf054f6f3da33cdb950afa3a",
+                            "width": 1024,
+                            "height": 685,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/CDoHizZgYm5I9LMvNOfbUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/af13bfcecf054f6f3da33cdb950afa3a",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Trefis",
+                    "url": "https://www.trefis.com/",
+                    "sourceId": "trefis_142"
+                },
+                "canonicalUrl": {
+                    "url": "https://www.trefis.com/articles/603511/oracle-is-burning-billions-is-ibm-stock-the-smarter-cloud-play/2026-06-18",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-burning-billions-ibm-stock-130249969.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        },
+        {
+            "id": "3635c18c-9765-33ba-83ae-24515dd790f0",
+            "content": {
+                "id": "3635c18c-9765-33ba-83ae-24515dd790f0",
+                "contentType": "STORY",
+                "title": "How Could Federal Backing Advance D-Wave's Quantum Efforts?",
+                "description": "",
+                "summary": "QBTS signs a $100M LOI under the CHIPS and Science Act, signaling federal backing that could accelerate its quantum computing R&D and qubit roadmap.",
+                "pubDate": "2026-06-18T12:28:00Z",
+                "displayTime": "2026-06-18T12:28:00Z",
+                "isHosted": true,
+                "bypassModal": false,
+                "previewUrl": null,
+                "thumbnail": {
+                    "originalUrl": "https://media.zenfs.com/en/zacks.com/d87cc8e5693753ce8e232e0a527e4885",
+                    "originalWidth": 635,
+                    "originalHeight": 400,
+                    "caption": "",
+                    "resolutions": [
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/mYQcKrBErD723LN8P5V9xQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d87cc8e5693753ce8e232e0a527e4885",
+                            "width": 635,
+                            "height": 400,
+                            "tag": "original"
+                        },
+                        {
+                            "url": "https://s.yimg.com/uu/api/res/1.2/tzvsO_ypF28r9r7fHDBqQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d87cc8e5693753ce8e232e0a527e4885",
+                            "width": 170,
+                            "height": 128,
+                            "tag": "170x128"
+                        }
+                    ]
+                },
+                "provider": {
+                    "displayName": "Zacks",
+                    "url": "http://www.zacks.com/",
+                    "sourceId": "zacks.com"
+                },
+                "canonicalUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/could-federal-backing-advance-d-122800728.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "clickThroughUrl": {
+                    "url": "https://finance.yahoo.com/technology/ai/articles/could-federal-backing-advance-d-122800728.html",
+                    "site": "finance",
+                    "region": "US",
+                    "lang": "en-US"
+                },
+                "metadata": {
+                    "editorsPick": false
+                },
+                "finance": {
+                    "premiumFinance": {
+                        "isPremiumNews": false,
+                        "isPremiumFreeNews": false
+                    }
+                },
+                "storyline": null
+            }
+        }
+    ]
+}
