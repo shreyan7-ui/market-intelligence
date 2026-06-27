@@ -4,12 +4,16 @@ import yfinance as yf
 import requests
 
 # ─── CONFIGURATION ───
-TICKERS = ["NVDA", "AAPL", "MSFT", "GOOG", "RELIANCE", "IBM"]
+TICKERS = ["NVDA", "AAPL", "MSFT", "GOOG", "RELIANCE.NS", "IBM"]
 TODAY_STR = datetime.today().strftime("%Y-%m-%d")
 
+# create the directory once
+TODAY_DIR = f"data/raw/daily/date={TODAY_STR}"
+os.makedirs(TODAY_DIR, exist_ok=True)
+
 # Local Storage Landing Zone Paths
-RAW_STOCK_PATH = f"data/raw/daily/stock_prices_{TODAY_STR}.json"
-RAW_NEWS_PATH = f"data/raw/daily/market_news_{TODAY_STR}.json"
+RAW_STOCK_PATH = f"{TODAY_DIR}/stock_prices.json"
+RAW_NEWS_PATH = f"{TODAY_DIR}/market_news.json"
 
 def fetch_stock_prices():
     """Extracts daily makrte metrics for our target tickers using yfinance"""
