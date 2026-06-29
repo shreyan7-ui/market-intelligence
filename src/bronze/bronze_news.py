@@ -9,7 +9,7 @@ live_df = (spark.read.option("multiline","true")
     .json("s3a://market-intelligence-platform/raw/news/date=*/market_news.json"))
 
 historical_df.printSchema()
-live_df.printSchema()
+live_df.printSchema(1)
 
-historical_df.show(10)
-live_df.show(10,truncate=False)
+historical_df.show(2,truncate=False)
+live_df.show(2,truncate=False)
