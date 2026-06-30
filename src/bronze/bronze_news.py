@@ -8,8 +8,11 @@ historical_df = spark.read.parquet(
 live_df = (spark.read.option("multiline","true")
     .json("s3a://market-intelligence-platform/raw/news/date=*/market_news.json"))
 
-historical_df.printSchema()
-live_df.printSchema(1)
+# historical_df.printSchema()
+# live_df.printSchema(1)
 
-historical_df.show(2,truncate=False)
-live_df.show(2,truncate=False)
+# historical_df.show(2,truncate=False)
+# live_df.show(2,truncate=False)
+# historical_df.limit(5).show(truncate=False)
+# print("Count of rows in historical_df:", historical_df.count())
+historical_df.describe().show()
