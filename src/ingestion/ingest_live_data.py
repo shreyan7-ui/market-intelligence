@@ -21,7 +21,7 @@ RAW_STOCK_PATH = f"{STOCK_DIR}/stock_prices.json"
 def fetch_stock_prices():
     """Extracts daily makrte metrics for our target tickers using yfinance"""
     print(f"[1/2] Extracting stock data for: {TICKERS}...")
-    combined_stocks = {}
+    combined_stocks = []
     
     for ticker in TICKERS:
         try:
@@ -33,8 +33,9 @@ def fetch_stock_prices():
                 # Convert the pandas dataframe row to a dictionary format
                 metrics = hist.iloc[-1].to_dict()
                 # Explicitly record the exact date stamp of this market capture
-                metrics['extracted_date'] = str(hist.index[-1].date())
-                combined_stocks[ticker] = metrics
+                metrics['ticker'] = ticker
+                metrics["extracted_date"] = str(hist.index[-1].date())
+                combined_stocks.append(metrics)
         except Exception as e:
             print(f"Error extracting stock data for {ticker}: {e}")
             
