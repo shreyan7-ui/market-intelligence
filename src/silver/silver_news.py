@@ -1,5 +1,5 @@
 from src.config import spark
-from pyspark.sql.functions import lit,to_timestamp,col
+from pyspark.sql.functions import lit,to_timestamp,col,count,when
 
 historical_cols=[
     "summary",
@@ -75,10 +75,43 @@ for column in historical_cols:
 
 silver_news_df = historical_df.unionByName(news_df)
 
-silver_news_df.printSchema()
-silver_news_df.show(5, truncate=False)
+# count nulls
+silver_news_df.select([
+    count(when(col(c).isNull(), c)).alias(c)
+    for c in silver_news_df.columns
+]).show()
 
-print("Rows:", silver_news_df.count())
+# duplicate check
+silver_news_df.groupBy("news_id").count().filter("count >1").show()
+
+# now investigate the duplicates found\
+ids = [
+    "3c8a1d2e-a15c-3a3",
+    "bcaad1bf-7c68-41d",
+    "1fdf89b7-660b-3ec",
+    "1d9c975c-569a-395"
+]
+condition = None
+
+for i in ids:
+    if condition is None:
+        condition = col("news_id").contains(i)
+    else:
+        condition = condition | col("news_id").contains(i)
+
+silver_news_df.filter(condition).show(truncate=False)
+
+# chcek if duplicate rows have duplicate data too
+silver_news_df.filter(col("news_id").isNotNull()) \
+    .groupBy("news_id", "ticker") \
+    .agg(count("*").alias("cnt")) \
+    .filter(col("cnt") > 1) \
+    .show(truncate=False)
+
+# silver_news_df.printSchema()
+# silver_news_df.show(5, truncate=False)
+
+# print("Rows:", silver_news_df.count())
 # historical_df.printSchema()
 # news_df.printSchema()
 

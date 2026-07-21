@@ -1,12 +1,12 @@
 import os
 
 # lenovo pc
-# os.environ["HADOOP_HOME"] = r"C:\Users\LENOVO\hadoop-3.5.0"
-# os.environ["PATH"] += os.pathsep + r"C:\Users\LENOVO\hadoop-3.5.0\bin"
+os.environ["HADOOP_HOME"] = r"C:\Users\LENOVO\hadoop-3.5.0"
+os.environ["PATH"] += os.pathsep + r"C:\Users\LENOVO\hadoop-3.5.0\bin"
 
 # office pc
-os.environ["HADOOP_HOME"] = r"C:\hadoop-3.5.0"
-os.environ["PATH"] += os.pathsep + r"C:\hadoop-3.5.0\bin"
+# os.environ["HADOOP_HOME"] = r"C:\hadoop-3.5.0"
+# os.environ["PATH"] += os.pathsep + r"C:\hadoop-3.5.0\bin"
 
 from pyspark.sql import SparkSession
 from dotenv import load_dotenv
