@@ -1,5 +1,5 @@
 from src.config import spark
-from pyspark.sql.functions import lit,to_timestamp,col,count,when
+from pyspark.sql.functions import lit,to_timestamp,col,count,when,upper,trim,dayofmonth,month,year
 
 historical_cols=[
     "summary",
@@ -78,7 +78,7 @@ silver_news_df = historical_df.unionByName(news_df)
 # count nulls
 silver_news_df.select([
     count(when(col(c).isNull(), c)).alias(c)
-    for c in silver_news_df.columns
+    for c in news_df.columns
 ]).show()
 
 # duplicate check
@@ -106,7 +106,40 @@ silver_news_df.filter(col("news_id").isNotNull()) \
     .groupBy("news_id", "ticker") \
     .agg(count("*").alias("cnt")) \
     .filter(col("cnt") > 1) \
-    .show(truncate=False)
+    # .show(truncate=False)
+
+# remove trailing spaces and convert ticker to upper case
+silver_news_df = (silver_news_df
+    .withColumn("ticker", upper(trim(col("ticker"))))
+    .withColumn("title", trim(col("title")))
+    .withColumn("summary", trim(col("summary")))
+    .withColumn("provider", trim(col("provider")))
+)
+
+# checks other business rules and filters out the rows that don't meet the criteria
+silver_news_df = (silver_news_df
+    .filter(col("ticker").isNotNull())
+    .filter(col("title").isNotNull())
+    .filter(col("event_time").isNotNull())
+)
+
+silver_news_df=(silver_news_df
+         .withColumn("year", year("event_time"))
+        .withColumn("month", month("event_time"))
+        .withColumn("day", dayofmonth("event_time")))
+
+silver_news_df.groupBy("source_system").count()
+
+# save to aws
+silver_news_df.write \
+    .mode("overwrite") \
+    .partitionBy("year", "month") \
+    .parquet("s3a://market-intelligence-platform/silver/news/")
+# when integrating airflow switch to append mode 
+
+
+# silver_news_df.show()
+# news_df.show()
 
 # silver_news_df.printSchema()
 # silver_news_df.show(5, truncate=False)
