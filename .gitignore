@@ -2,4 +2,5 @@
 src/__pycache__/
 src/bronze/__pycache__/
 src/silver/__pycache__/
+src/gold/__pycache__/
 src/ingestion/__pycache__/
