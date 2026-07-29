@@ -18,7 +18,7 @@ gold_market_events_df = (silver_stocks_df.alias("s")
 
 gold_market_events_df=gold_market_events_df.select(
     col("s.ticker").alias("ticker"),
-    col("s.event_date"),
+    col("s.event_time"),
     col("s.open_price"),
     col("s.close_price"),
     col("s.high_price"),
@@ -33,8 +33,8 @@ gold_market_events_df=gold_market_events_df.select(
 )
 
 gold_market_events_df = (gold_market_events_df
-    .withColumn("year", year("event_date"))
-    .withColumn("month", month("event_date"))
+    .withColumn("year", year("event_time"))
+    .withColumn("month", month("event_time"))
 )
 
 # business metrics

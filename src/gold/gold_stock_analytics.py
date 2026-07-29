@@ -1,5 +1,5 @@
 from src.config import spark
-from pyspark.sql.functions import to_date,col,count,year,month,round
+from pyspark.sql.functions import to_date,col, when,year,month,round
 
 silver_stocks_df =spark.read.parquet("s3a://market-intelligence-platform/silver/stocks/")
 
@@ -37,4 +37,24 @@ gold_stocks_analytics_df.select(
     "price_change_percent"
 ).show()
 
+gold_stocks_analytics_df = (gold_stocks_analytics_df
+    .withColumn("day_status",
+        when(col("close_price") > col("open_price"), "GAIN")
+        .when(col("close_price") < col("open_price"), "LOSS")
+        .otherwise("NO_CHANGE")
+    )
+)
+
+gold_stocks_analytics_df = (gold_stocks_analytics_df
+    .withColumn("year", year("event_time"))
+    .withColumn("month", month("event_time"))
+)
+
+
+gold_stocks_analytics_df.write \
+.mode("overwrite") \
+.partitionBy("year", "month") \
+.parquet(f"s3a://market-intelligence-platform/gold/stock_analytics/")
+
+# gold_stocks_analytics_df.show(5)
 # gold_stocks_analytics_df.printSchema()

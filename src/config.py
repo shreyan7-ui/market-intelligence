@@ -21,6 +21,8 @@ spark = (
         "org.apache.hadoop:hadoop-aws:3.4.2,"
         "com.amazonaws:aws-java-sdk-bundle:1.12.262"
     )
+    # for local dev only partitions 12
+    .config("spark.sql.shuffle.partitions", "12")
     .config(
         "spark.hadoop.fs.s3a.aws.credentials.provider",
         "org.apache.hadoop.fs.s3a.SimpleAWSCredentialsProvider"
