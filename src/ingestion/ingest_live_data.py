@@ -99,8 +99,16 @@ def fetch_market_news():
     
     
 
+def run():
+    try:
+        print(f"Starting Ingestion Pipeline [Run Date: {TODAY_STR}]")
+        fetch_stock_prices()
+        fetch_market_news()
+        print("Ingestion Pipeline Completed Successfully.")
+        
+    except Exception as e:
+        print(f"Ingestion Failed: {e}")
+        raise
+    
 if __name__ == "__main__":
-    print(f"Starting Ingestion Execution Pipeline [Run Date: {TODAY_STR}]")
-    fetch_stock_prices()
-    fetch_market_news()
-    print("Ingestion Sequence Finished Successfully!")
+    run()

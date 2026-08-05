@@ -13,7 +13,7 @@ def clean_historical_data():
         print(
             f"Error: Could not find the Kaggle CSV file at {INPUT_PATH}. Please download it and place it there!"
         )
-        return
+        raise FileNotFoundError(f"Kaggle CSV file not found at {INPUT_PATH}")
 
     df = pd.read_csv(INPUT_PATH)
     print(f"Raw data loaded: {df.shape[0]:,} rows found.")
@@ -40,5 +40,17 @@ def clean_historical_data():
     print("Historical base preparation complete!")
 
 
+def run():
+
+    try:
+
+        print("Starting Historical News Preparation...")
+        clean_historical_data()
+        print("Historical News Preparation Completed.")
+
+    except Exception as e:
+        print(f"Historical News Preparation Failed: {e}")
+        raise
+    
 if __name__ == "__main__":
-    clean_historical_data()
+     run()
