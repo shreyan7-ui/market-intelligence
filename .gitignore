@@ -5,3 +5,5 @@ src/silver/__pycache__/
 src/gold/__pycache__/
 src/ingestion/__pycache__/
 .venv
+import_time.txt
+airflow-venv
