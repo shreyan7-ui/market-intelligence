@@ -1,11 +1,11 @@
 import sys
-sys.path.append("/mnt/d/market-intelligence")
+sys.path.append("/mnt/e/market analysis")
 
 from airflow import DAG
 from airflow.providers.standard.operators.python import PythonOperator
 from datetime import datetime
 
-from src.ingestion.ingest_his_data import run as historical_news_run
+# from src.ingestion.ingest_his_data import run as historical_news_run
 from src.ingestion.ingest_live_data import run as live_ingestion_run
 
 from src.bronze.bronze_news import run as bronze_news_run
@@ -28,10 +28,10 @@ with DAG(
     tags=["market-intelligence", "data-engineering"],
 ) as dag:
 
-    historical_news_task = PythonOperator(
-        task_id="historical_news_ingestion",
-        python_callable=historical_news_run,
-    )
+    # historical_news_task = PythonOperator(
+    #     task_id="historical_news_ingestion",
+    #     python_callable=historical_news_run,
+    # )
     live_ingestion_task = PythonOperator(
         task_id="live_market_ingestion",
         python_callable=live_ingestion_run,
@@ -65,7 +65,7 @@ with DAG(
         python_callable=news_analytics_run,
     )
 
-    historical_news_task >> live_ingestion_task
+    live_ingestion_task
 
     live_ingestion_task >> bronze_news_task
     live_ingestion_task >> bronze_stocks_task

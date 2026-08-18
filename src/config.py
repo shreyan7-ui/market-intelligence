@@ -7,12 +7,12 @@ load_dotenv()
 # Windows-only Hadoop configuration
 if os.name == "nt":
     # Lenovo PC
-    # os.environ["HADOOP_HOME"] = r"C:\Users\LENOVO\hadoop-3.5.0"
-    # os.environ["PATH"] += os.pathsep + r"C:\Users\LENOVO\hadoop-3.5.0\bin"
+    os.environ["HADOOP_HOME"] = r"C:\Users\LENOVO\hadoop-3.5.0"
+    os.environ["PATH"] += os.pathsep + r"C:\Users\LENOVO\hadoop-3.5.0\bin"
 
     # Office PC
-    os.environ["HADOOP_HOME"] = r"C:\hadoop-3.5.0"
-    os.environ["PATH"] += os.pathsep + r"C:\hadoop-3.5.0\bin"
+    # os.environ["HADOOP_HOME"] = r"C:\hadoop-3.5.0"
+    # os.environ["PATH"] += os.pathsep + r"C:\hadoop-3.5.0\bin"
 
 
 def get_spark():

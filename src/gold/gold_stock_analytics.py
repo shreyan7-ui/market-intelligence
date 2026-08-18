@@ -7,6 +7,27 @@ def run():
     
     silver_stocks_df =spark.read.parquet("s3a://market-intelligence-platform/silver/stocks/")
 
+    print("SILVER ROW COUNT:", silver_stocks_df.count())
+
+    silver_stocks_df.groupBy(
+        "ticker",
+        "event_time"
+    ).count().orderBy(
+        col("count").desc()
+    ).show(20)
+    
+    silver_stocks_df.groupBy(
+    "ticker",
+    "event_time",
+    "open_price",
+    "close_price",
+    "high_price",
+    "low_price",
+    "volume"
+    ).count().orderBy(
+        col("count").desc()
+    ).show(20)
+
     silver_stocks_df =silver_stocks_df.withColumn("event_date",to_date("event_time")) 
 
     gold_stocks_analytics_df=silver_stocks_df .select(
@@ -61,7 +82,7 @@ def run():
     .parquet(f"s3a://market-intelligence-platform/gold/stock_analytics/")
 
     # gold_stocks_analytics_df.show(5)
-    # gold_stocks_analytics_df.printSchema()
+    gold_stocks_analytics_df.printSchema()
 
 if __name__ == "__main__":
     run()

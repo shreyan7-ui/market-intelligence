@@ -1,17 +1,20 @@
-
 from datetime import datetime
+from src.config import get_spark
+from pyspark.sql.functions import current_timestamp, lit
 
 def run():
-    
-    from src.config import get_spark
-    from pyspark.sql.functions import current_timestamp, lit
-    
+
     spark = get_spark()
-    
+
     TODAY = datetime.today().strftime("%Y-%m-%d")
 
-    stocks_df=(spark.read.option("multiline","true")
-            .json("s3a://market-intelligence-platform/raw/stocks/date=*/stock_prices.json"))
+    stocks_df = (
+        spark.read
+        .option("multiline", "true")
+        .json(
+            f"s3a://market-intelligence-platform/raw/stocks/date={TODAY}/stock_prices.json"
+        )
+    )
 
     stocks_df = (
         stocks_df
@@ -20,15 +23,10 @@ def run():
     )
 
     stocks_df.write \
-    .mode("overwrite") \
-    .parquet(
-        f"s3a://market-intelligence-platform/bronze/stocks/date={TODAY}/"
-    )
-    # stocks_df.printSchema()
-    # stocks_df.show(4)
-    # stocks_df.select("MSFT","NVDA").show()
-    # print(stocks_df.schema)
-    # print("count of rows :",stocks_df.count())
+        .mode("overwrite") \
+        .parquet(
+            f"s3a://market-intelligence-platform/bronze/stocks/date={TODAY}/"
+        )
 
 if __name__ == "__main__":
     run()

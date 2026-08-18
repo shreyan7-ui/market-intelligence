@@ -1,9 +1,9 @@
-
+from src.config import get_spark
+from pyspark.sql.functions import lit,to_timestamp,col,count,when,upper,trim,dayofmonth,month,year,to_date
 
 def run():
     
-    from src.config import get_spark
-    from pyspark.sql.functions import lit,to_timestamp,col,count,when,upper,trim,dayofmonth,month,year
+   
     
     spark = get_spark()
     
@@ -25,7 +25,14 @@ def run():
     )
 
     stocks_df = stocks_df.withColumn("event_time",to_timestamp("event_time"))
-
+    
+    stocks_df \
+    .filter(
+        (col("ticker") == "GOOG") &
+        (to_date(col("event_time")) == "2026-07-13")
+    ) \
+    .count()
+    
     stocks_df=(stocks_df.withColumn("ticker", upper(trim(col("ticker"))))
                         # .withColumn("Close",trim(col("Close")))
                         # .withColumn("High",trim(col("High")))
@@ -40,7 +47,7 @@ def run():
         for c in stocks_df.columns
     ]).show()
 
-    # print("duplicate check : ",stocks_df.groupBy("ticker","event_time").count().filter("count>1").show())
+    print("duplicate check : ",stocks_df.groupBy("ticker","event_time").count().filter("count>1").show())
 
     stocks_df.filter( col("ticker").isNotNull() &
         col("event_time").isNotNull() &

@@ -1,9 +1,9 @@
-
+from pyspark.sql.functions import lit,to_timestamp,col,count,when,upper,trim,dayofmonth,month,year
+from src.config import get_spark
 
 def run():
     
-    from pyspark.sql.functions import lit,to_timestamp,col,count,when,upper,trim,dayofmonth,month,year
-    from src.config import get_spark
+
     
     spark = get_spark()
     
