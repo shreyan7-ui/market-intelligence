@@ -1,0 +1,68 @@
+[
+    {
+        "Open": 218.36000061035156,
+        "High": 219.86000061035156,
+        "Low": 215.66000366210938,
+        "Close": 216.5800018310547,
+        "Volume": 50474312.0,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0,
+        "ticker": "NVDA",
+        "extracted_date": "2026-08-20"
+    },
+    {
+        "Open": 317.4549865722656,
+        "High": 320.2799987792969,
+        "Low": 315.4400939941406,
+        "Close": 315.4599914550781,
+        "Volume": 16145311.0,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0,
+        "ticker": "AAPL",
+        "extracted_date": "2026-08-20"
+    },
+    {
+        "Open": 483.0,
+        "High": 484.1600036621094,
+        "Low": 479.5,
+        "Close": 480.8800048828125,
+        "Volume": 7350314.0,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0,
+        "ticker": "MSFT",
+        "extracted_date": "2026-08-20"
+    },
+    {
+        "Open": 339.69000244140625,
+        "High": 340.79998779296875,
+        "Low": 336.1700134277344,
+        "Close": 337.3299865722656,
+        "Volume": 7185549.0,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0,
+        "ticker": "GOOG",
+        "extracted_date": "2026-08-20"
+    },
+    {
+        "Open": 1315.5,
+        "High": 1316.5,
+        "Low": 1307.0,
+        "Close": 1313.199951171875,
+        "Volume": 5527195.0,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0,
+        "ticker": "RELIANCE.NS",
+        "extracted_date": "2026-08-20"
+    },
+    {
+        "Open": 236.0,
+        "High": 237.49000549316406,
+        "Low": 234.0200958251953,
+        "Close": 235.10499572753906,
+        "Volume": 1982780.0,
+        "Dividends": 0.0,
+        "Stock Splits": 0.0,
+        "ticker": "IBM",
+        "extracted_date": "2026-08-20"
+    }
+]

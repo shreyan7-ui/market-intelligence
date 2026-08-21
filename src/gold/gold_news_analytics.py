@@ -1,68 +1,142 @@
 from src.config import get_spark
-from pyspark.sql.functions import to_date, year,countDistinct,count,month,col
+
+from pyspark.sql.functions import (
+    to_date,
+    year,
+    month,
+    col,
+    count,
+    countDistinct
+)
+
 
 def run():
-    
+
     spark = get_spark()
-    
-    # gold_market_events=spark.read.parquet(
-    #     "s3a://market-intelligence-platform/gold/market_events/"
-    # )
 
-    # gold_stock_analytics=spark.read.parquet(
-    #     "s3a://market-intelligence-platform/gold/stock_analytics/"
-    # )
+    # ============================================================
+    # 1. READ SILVER NEWS
+    # ============================================================
 
-    # gold_stock_analytics.printSchema()
-    # gold_market_events.printSchema()
+    silver_news_df = spark.read.parquet(
+        "s3a://market-intelligence-platform/silver/news/"
+    )
 
-    silver_news_df = spark.read.parquet("s3a://market-intelligence-platform/silver/news/")
+    print("SILVER NEWS ROWS:", silver_news_df.count())
 
-    gold_news_analytics_df = (silver_news_df
-        .withColumn("event_date", to_date("event_time"))
-        .groupBy("ticker", "event_time")
-        .agg(count("*").alias("news_count"),
-            countDistinct("provider").alias("unique_providers")
+
+    # ============================================================
+    # 2. CREATE EVENT DATE
+    # ============================================================
+
+    silver_news_df = silver_news_df.withColumn(
+        "event_date",
+        to_date("event_time")
+    )
+
+
+    # ============================================================
+    # 3. GOLD NEWS ANALYTICS
+    #
+    # Grain:
+    # ticker + event_date
+    #
+    # One row represents the news activity for a stock
+    # on a particular day.
+    # ============================================================
+
+    gold_news_analytics_df = (
+        silver_news_df
+        .groupBy(
+            "ticker",
+            "event_date"
+        )
+        .agg(
+            count("*").alias("news_count"),
+            countDistinct(
+                "provider"
+            ).alias("unique_providers")
         )
     )
 
-    gold_news_analytics_df = (gold_news_analytics_df
-        .withColumn("year", year("event_time"))
-        .withColumn("month", month("event_time"))
+
+    # ============================================================
+    # 4. ADD PARTITION COLUMNS
+    # ============================================================
+
+    gold_news_analytics_df = (
+        gold_news_analytics_df
+        .withColumn(
+            "year",
+            year("event_date")
+        )
+        .withColumn(
+            "month",
+            month("event_date")
+        )
     )
-    # print("Silver rows:", silver_news_df.count())
-    # print(gold_news_analytics_df.count())
-    # print(gold_news_analytics_df.rdd.getNumPartitions())
-
-    # This reduces the number of output files and concurrent writers.
-    gold_news_analytics_df = gold_news_analytics_df.coalesce(4)
 
 
-    # print(spark.sparkContext.defaultParallelism)
-    # print(spark.conf.get("spark.sql.shuffle.partitions"))
+    # ============================================================
+    # 5. CHECK RESULTS
+    # ============================================================
 
-    # reduces the number of output files uploaded to S3
-    gold_news_analytics_df = gold_news_analytics_df.coalesce(4)
+    # print("=== GOLD NEWS ANALYTICS ===")
 
-    # gold_news_analytics_df=spark.read.parquet(
-    #     "s3a://market-intelligence-platform/gold/news_analytics/"
+    # gold_news_analytics_df.orderBy(
+    #     col("event_date").desc(),
+    #     col("ticker")
+    # ).show(
+    #     20,
+    #     truncate=False
     # )
 
+
+    # print(
+    #     "GOLD NEWS ANALYTICS ROWS:",
+    #     gold_news_analytics_df.count()
+    # )
+
+
+    # ============================================================
+    # 6. CHECK GRAIN
+    # ============================================================
+
+    # print("=== DUPLICATE CHECK ===")
+
+    # gold_news_analytics_df.groupBy(
+    #     "ticker",
+    #     "event_date"
+    # ).count().filter(
+    #     col("count") > 1
+    # ).show(
+    #     20,
+    #     truncate=False
+    # )
+
+
+    # ============================================================
+    # 7. REDUCE OUTPUT FILES
+    # ============================================================
+
+    gold_news_analytics_df = (
+        gold_news_analytics_df.coalesce(4)
+    )
+
+
+    # ============================================================
+    # 8. WRITE GOLD
+    # ============================================================
+
     gold_news_analytics_df.write \
-    .mode("overwrite") \
-    .partitionBy("year", "month") \
-    .parquet(f"s3a://market-intelligence-platform/gold/news_analytics/")
+        .mode("overwrite") \
+        .partitionBy("year", "month") \
+        .parquet(
+            "s3a://market-intelligence-platform/gold/news_analytics/"
+        )
 
 
-    # silver_news_df.select("provider").show(20, truncate=False)
-    # silver_news_df.filter(col("provider").isNotNull()).show(20, truncate=False)
-
-
-    gold_news_analytics_df.printSchema()
-    # gold_news_analytics_df.show(3,truncate=False)
-    # print("Market Events:", gold_market_events.count())
-    # print("Stock Analytics:", gold_stock_analytics.count())
-    print("Gold News Analytics completed successfully.")
+    print("=== GOLD NEWS ANALYTICS COMPLETED ===")
 
 
 if __name__ == "__main__":
