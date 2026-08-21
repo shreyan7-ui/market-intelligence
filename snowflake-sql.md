@@ -306,8 +306,6 @@ SHOW USERS LIKE '';
 ALTER USER SHREYAN7 SET PASSWORD = '';
 ```
 
-> **Security Warning:** Never commit real Snowflake passwords, access keys, tokens, or other credentials to GitHub. Keep credentials in environment variables, Airflow Connections, or another secrets-management mechanism.
-
 ---
 
 # Quick Snowflake Verification Flow
