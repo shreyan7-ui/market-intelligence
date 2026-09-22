@@ -7,3 +7,4 @@ src/ingestion/__pycache__/
 .venv
 import_time.txt
 airflow-venv
+dags/__pycache__/
